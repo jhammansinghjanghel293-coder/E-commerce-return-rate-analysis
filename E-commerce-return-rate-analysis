@@ -1,0 +1,62 @@
+# 📦 E-commerce Return Rate Reduction Analysis
+
+This project analyzes product return patterns in an e-commerce business using **SQL**, **Python**, and **Power BI**.  
+The goal is to understand why returns happen and identify patterns based on category, supplier, region, and marketing channel.
+
+The project includes:
+- SQL data cleaning and exploration  
+- Python preprocessing and probability calculation  
+- A complete Power BI dashboard showing return trends and insights  
+
+---
+
+## 🎯 Project Objective
+- Identify key reasons behind customer returns  
+- Analyze return rate by:
+  - Category  
+  - Supplier  
+  - Region  
+  - Marketing Channel  
+- Display insights through a clean, interactive Power BI dashboard  
+- Use Python for data cleaning and generating a return probability score (not machine learning)
+
+---
+
+## 🛠 Tools & Technologies
+- **SQL** — Data cleaning, joins, aggregations  
+- **Python (Pandas)** — Data preprocessing, missing value handling  
+- **Power BI** — Dashboards and visualizations  
+- **CSV Files** — Orders and returns dataset  
+
+---
+
+## 📁 Folder Structure
+
+```plaintext
+Ecommerce-Return-Rate-Analysis/
+│
+├── README.md
+│
+├── data/
+│   ├── orders.csv
+│   └── returns.csv
+│
+├── sql/
+│   ├── cleaning.sql
+│   ├── analysis.sql
+│   └── summary.sql
+│
+├── python/
+│   └── data_processing.py
+│
+├── powerbi/
+│   ├── Ecommerce_Returns_Analysis_Dashboard.pdf
+│   ├── dashboard_overview.png
+│   └── dashboard_details.png
+│
+├── outputs/
+│   └── orders_with_predicted_returns.csv
+│
+└── ecommerce_dashboard.pbix   (optional)
+```
+
