@@ -1,0 +1,1001 @@
+order_id,order_date,customer_id,category,supplier,region,marketing_channel,price,quantity,delivery_days
+O1001,2024-01-14,C523,Electronics,ElectroWorld,West,YouTube Ads,35854.82,3,9
+O1002,2024-04-24,C249,Home Decor,DecoHub,South,Google Ads,37367.13,3,3
+O1003,2024-03-11,C143,Sports,FitNation,West,Facebook,9132.39,3,8
+O1004,2024-05-14,C239,Beauty,GlowStore,North,Facebook,10105.76,3,7
+O1005,2024-02-28,C463,Sports,ProGear,North,YouTube Ads,18695.95,1,3
+O1006,2024-05-19,C533,Electronics,TechZone,West,Facebook,11911.23,2,7
+O1007,2024-02-16,C142,Home Decor,DecoHub,North,Google Ads,47120.55,2,3
+O1008,2024-01-25,C223,Home Decor,DecoHub,North,Instagram,27613.62,2,3
+O1009,2024-01-13,C532,Beauty,GlowStore,West,Facebook,32302.36,1,2
+O1010,2024-03-27,C587,Sports,FitNation,East,Instagram,1973.01,2,9
+O1011,2024-04-10,C128,Fashion,UrbanLook,North,Google Ads,4525.19,1,5
+O1012,2024-01-29,C452,Beauty,GlowStore,North,Email,21733.47,2,9
+O1013,2024-05-21,C588,Home Decor,DecoHub,South,Email,18619.15,1,9
+O1014,2024-04-10,C356,Sports,ProGear,South,Google Ads,12291.21,2,6
+O1015,2024-03-12,C220,Home Decor,DecoHub,East,Email,10745.04,3,7
+O1016,2024-05-14,C171,Electronics,ElectroWorld,East,Facebook,14038.12,1,7
+O1017,2024-05-04,C254,Beauty,GlowStore,East,Email,12381.43,3,6
+O1018,2024-02-26,C233,Home Decor,HomeEssence,South,Facebook,15755.08,1,8
+O1019,2024-05-29,C342,Fashion,UrbanLook,East,Facebook,22921.53,3,9
+O1020,2024-06-27,C390,Sports,FitNation,West,Google Ads,37512.85,3,7
+O1021,2024-03-16,C302,Fashion,StyleHub,East,Google Ads,35419.78,2,8
+O1022,2024-05-18,C154,Electronics,ElectroWorld,North,Google Ads,41997.32,2,2
+O1023,2024-05-18,C328,Electronics,ElectroWorld,North,YouTube Ads,37066.29,1,7
+O1024,2024-06-24,C433,Sports,FitNation,East,Email,13916.71,3,6
+O1025,2024-01-29,C331,Sports,ProGear,South,Facebook,45956.82,3,6
+O1026,2024-02-05,C137,Home Decor,HomeEssence,East,Facebook,14021.26,2,6
+O1027,2024-03-20,C449,Electronics,SmartBuy,West,Facebook,18480.05,3,9
+O1028,2024-04-24,C437,Fashion,StyleHub,West,Google Ads,38330.59,3,4
+O1029,2024-01-03,C224,Beauty,BeautyCart,West,Google Ads,42086.68,1,5
+O1030,2024-05-29,C226,Home Decor,DecoHub,West,Email,27415.63,2,9
+O1031,2024-04-17,C394,Fashion,TrendWear,South,Facebook,7868.76,1,3
+O1032,2024-01-28,C311,Fashion,TrendWear,West,Google Ads,34453.39,2,9
+O1033,2024-02-01,C447,Electronics,ElectroWorld,North,Email,36096.84,3,7
+O1034,2024-06-23,C432,Home Decor,DecoHub,South,YouTube Ads,49524.85,3,10
+O1035,2024-04-23,C263,Fashion,UrbanLook,South,Google Ads,7495.1,1,8
+O1036,2024-04-11,C579,Beauty,BeautyCart,South,Email,13458.76,3,6
+O1037,2024-05-14,C495,Fashion,StyleHub,South,Email,7708.97,2,5
+O1038,2024-06-22,C399,Beauty,BeautyCart,South,Facebook,46424.11,2,4
+O1039,2024-03-18,C422,Fashion,UrbanLook,West,Email,26840.95,3,8
+O1040,2024-03-19,C290,Beauty,GlowStore,West,Email,28231.99,1,5
+O1041,2024-04-10,C490,Fashion,UrbanLook,North,Email,10769.99,1,3
+O1042,2024-02-21,C553,Fashion,TrendWear,North,Facebook,35403.11,3,3
+O1043,2024-05-17,C246,Electronics,TechZone,North,Google Ads,30359.94,1,9
+O1044,2024-01-03,C229,Home Decor,DecoHub,West,Google Ads,43845.85,1,6
+O1045,2024-05-31,C263,Electronics,SmartBuy,East,Facebook,40706.74,1,6
+O1046,2024-04-03,C384,Electronics,ElectroWorld,West,Email,37696.24,2,10
+O1047,2024-01-16,C381,Home Decor,DecoHub,East,Google Ads,44545.62,3,9
+O1048,2024-03-19,C403,Fashion,TrendWear,West,Google Ads,43139.1,3,4
+O1049,2024-03-20,C433,Sports,FitNation,South,Email,44326.23,1,9
+O1050,2024-03-29,C368,Fashion,TrendWear,East,Email,44421.19,1,7
+O1051,2024-04-19,C360,Home Decor,HomeEssence,East,Facebook,11778.71,3,7
+O1052,2024-04-29,C396,Sports,FitNation,West,Facebook,25914.17,3,5
+O1053,2024-04-24,C400,Home Decor,HomeEssence,East,Email,36567.44,3,9
+O1054,2024-01-06,C534,Sports,FitNation,North,Facebook,16544.44,1,4
+O1055,2024-01-07,C147,Fashion,StyleHub,South,YouTube Ads,26851.09,2,8
+O1056,2024-04-23,C207,Home Decor,DecoHub,West,Google Ads,4774.1,2,8
+O1057,2024-03-11,C329,Beauty,BeautyCart,South,Instagram,32249.49,3,2
+O1058,2024-04-17,C401,Fashion,UrbanLook,West,Instagram,26036.9,1,2
+O1059,2024-04-02,C229,Electronics,SmartBuy,East,YouTube Ads,5426.54,2,2
+O1060,2024-06-01,C206,Electronics,TechZone,South,Instagram,5652.57,1,5
+O1061,2024-03-25,C118,Electronics,TechZone,North,Facebook,31871.56,2,8
+O1062,2024-02-08,C486,Sports,ProGear,West,YouTube Ads,28502.07,1,7
+O1063,2024-04-06,C593,Beauty,BeautyCart,East,YouTube Ads,19180.98,2,9
+O1064,2024-03-04,C218,Home Decor,HomeEssence,East,Instagram,38093.69,2,5
+O1065,2024-03-11,C236,Electronics,ElectroWorld,South,Email,16206.17,3,3
+O1066,2024-01-16,C412,Home Decor,DecoHub,East,YouTube Ads,12605.97,3,10
+O1067,2024-02-09,C371,Fashion,StyleHub,South,Instagram,25760.32,3,2
+O1068,2024-06-08,C243,Sports,ProGear,East,YouTube Ads,45701.59,3,8
+O1069,2024-03-30,C343,Electronics,SmartBuy,West,YouTube Ads,35316.44,1,7
+O1070,2024-05-22,C328,Electronics,ElectroWorld,West,Facebook,27089.94,3,5
+O1071,2024-02-16,C312,Home Decor,DecoHub,West,Google Ads,19554.99,2,6
+O1072,2024-05-24,C272,Fashion,UrbanLook,East,Email,4418.64,2,5
+O1073,2024-04-15,C236,Home Decor,HomeEssence,South,Google Ads,8600.62,1,7
+O1074,2024-04-17,C295,Sports,ProGear,West,YouTube Ads,18050.32,2,6
+O1075,2024-06-04,C242,Home Decor,DecoHub,East,Google Ads,22221.53,1,6
+O1076,2024-06-16,C399,Home Decor,HomeEssence,South,Instagram,34786.78,1,4
+O1077,2024-03-05,C519,Sports,ProGear,East,Facebook,39910.31,1,2
+O1078,2024-05-05,C401,Fashion,UrbanLook,South,YouTube Ads,38834.95,1,2
+O1079,2024-03-15,C252,Home Decor,DecoHub,East,Google Ads,23721.95,2,7
+O1080,2024-06-07,C257,Electronics,TechZone,North,Instagram,48623.2,3,3
+O1081,2024-03-02,C128,Fashion,TrendWear,West,Google Ads,15582.51,1,5
+O1082,2024-05-21,C366,Sports,FitNation,North,Email,48100.67,3,5
+O1083,2024-01-14,C358,Sports,FitNation,North,YouTube Ads,24260.77,2,7
+O1084,2024-02-26,C299,Sports,FitNation,North,Google Ads,41609.14,1,7
+O1085,2024-06-26,C234,Beauty,GlowStore,East,Facebook,26143.01,1,10
+O1086,2024-01-07,C138,Beauty,GlowStore,South,Email,41367.82,1,5
+O1087,2024-03-02,C301,Sports,FitNation,West,Facebook,4367.07,2,6
+O1088,2024-02-11,C285,Electronics,ElectroWorld,North,Email,14335.51,1,10
+O1089,2024-02-02,C399,Sports,FitNation,East,YouTube Ads,47315.56,2,5
+O1090,2024-05-07,C271,Fashion,TrendWear,North,Instagram,8876.48,2,10
+O1091,2024-04-20,C520,Sports,ProGear,West,Google Ads,594.29,3,10
+O1092,2024-06-01,C264,Electronics,SmartBuy,West,Facebook,36892.89,3,9
+O1093,2024-05-04,C184,Fashion,UrbanLook,South,Facebook,16794.45,1,6
+O1094,2024-06-03,C318,Home Decor,DecoHub,North,Facebook,35105.86,1,8
+O1095,2024-05-08,C330,Sports,FitNation,South,Google Ads,32810.82,2,8
+O1096,2024-06-08,C289,Fashion,UrbanLook,North,Email,48103.44,3,7
+O1097,2024-01-05,C185,Sports,FitNation,West,Facebook,30690.24,2,5
+O1098,2024-06-09,C108,Sports,FitNation,South,YouTube Ads,18239.23,3,7
+O1099,2024-01-04,C222,Electronics,SmartBuy,West,Facebook,13139.25,1,6
+O1100,2024-06-16,C136,Sports,FitNation,East,YouTube Ads,6588.78,3,6
+O1101,2024-03-01,C483,Home Decor,HomeEssence,South,Google Ads,27670.35,1,3
+O1102,2024-04-01,C107,Fashion,StyleHub,West,YouTube Ads,7397.73,1,7
+O1103,2024-06-19,C448,Home Decor,DecoHub,East,Google Ads,34677.22,1,10
+O1104,2024-04-25,C432,Fashion,TrendWear,West,Instagram,32904.35,1,9
+O1105,2024-03-08,C316,Sports,FitNation,North,Google Ads,21031.14,3,3
+O1106,2024-03-01,C463,Fashion,TrendWear,West,Facebook,22095.56,2,9
+O1107,2024-05-05,C203,Fashion,UrbanLook,South,Google Ads,47245.72,2,3
+O1108,2024-06-11,C209,Fashion,StyleHub,West,Google Ads,16510.02,1,10
+O1109,2024-05-07,C137,Home Decor,DecoHub,South,Google Ads,5236.81,2,9
+O1110,2024-03-02,C109,Electronics,SmartBuy,North,Email,39485.68,3,3
+O1111,2024-02-26,C175,Sports,FitNation,North,YouTube Ads,24762.01,1,5
+O1112,2024-02-09,C553,Electronics,SmartBuy,South,Email,22219.22,1,10
+O1113,2024-02-29,C141,Beauty,GlowStore,North,Email,48875.95,1,4
+O1114,2024-01-04,C197,Electronics,SmartBuy,East,Google Ads,31732.55,2,7
+O1115,2024-04-17,C401,Sports,FitNation,West,Email,39165.53,2,2
+O1116,2024-06-04,C137,Fashion,StyleHub,East,Email,19743.23,2,3
+O1117,2024-06-23,C439,Electronics,ElectroWorld,East,Facebook,6045.79,3,10
+O1118,2024-01-31,C420,Fashion,UrbanLook,East,YouTube Ads,14784.64,3,6
+O1119,2024-01-20,C558,Beauty,GlowStore,South,YouTube Ads,33168.88,1,3
+O1120,2024-02-12,C434,Electronics,SmartBuy,South,Facebook,7425.27,2,5
+O1121,2024-03-30,C333,Sports,FitNation,West,Email,29599.62,1,8
+O1122,2024-02-10,C271,Electronics,ElectroWorld,East,YouTube Ads,43866.37,1,10
+O1123,2024-02-09,C145,Electronics,ElectroWorld,West,Instagram,22042.27,1,10
+O1124,2024-06-03,C450,Fashion,UrbanLook,West,Google Ads,1968.07,1,10
+O1125,2024-01-29,C371,Sports,FitNation,West,Email,30425.23,1,4
+O1126,2024-01-21,C268,Fashion,StyleHub,West,Instagram,9070.6,1,5
+O1127,2024-05-07,C190,Sports,ProGear,South,Instagram,29084.97,1,3
+O1128,2024-06-23,C324,Sports,ProGear,West,YouTube Ads,16239.1,1,6
+O1129,2024-03-16,C522,Electronics,TechZone,North,Facebook,16515.16,2,6
+O1130,2024-04-15,C333,Fashion,TrendWear,North,Email,40322.46,3,5
+O1131,2024-03-29,C291,Fashion,TrendWear,North,YouTube Ads,38209.67,2,3
+O1132,2024-05-13,C173,Beauty,BeautyCart,North,Facebook,6316.53,3,8
+O1133,2024-06-17,C181,Electronics,ElectroWorld,East,Instagram,44519.1,1,9
+O1134,2024-04-30,C443,Electronics,TechZone,West,Google Ads,20402.82,1,6
+O1135,2024-03-02,C349,Home Decor,DecoHub,South,Facebook,27294.91,1,6
+O1136,2024-02-24,C590,Electronics,TechZone,North,Facebook,4660.6,2,8
+O1137,2024-04-14,C148,Sports,ProGear,North,Facebook,16062.37,3,7
+O1138,2024-03-08,C419,Electronics,SmartBuy,North,Email,36605.77,3,5
+O1139,2024-03-29,C143,Fashion,UrbanLook,North,Facebook,8925.62,1,6
+O1140,2024-04-23,C278,Fashion,TrendWear,South,YouTube Ads,30461.83,3,10
+O1141,2024-05-08,C118,Fashion,StyleHub,West,Email,36136.19,3,7
+O1142,2024-05-09,C426,Fashion,StyleHub,East,YouTube Ads,30044.75,3,7
+O1143,2024-05-12,C251,Fashion,UrbanLook,South,Google Ads,14519.13,2,7
+O1144,2024-01-26,C221,Fashion,StyleHub,West,Email,38468.35,3,10
+O1145,2024-02-19,C576,Home Decor,DecoHub,East,Google Ads,4292.05,1,10
+O1146,2024-03-03,C125,Beauty,GlowStore,North,Facebook,39852.6,1,8
+O1147,2024-03-22,C226,Beauty,BeautyCart,West,Instagram,11437.44,3,7
+O1148,2024-03-29,C287,Electronics,ElectroWorld,West,Google Ads,17617.45,3,7
+O1149,2024-02-21,C108,Sports,ProGear,East,Email,39283.3,3,8
+O1150,2024-03-31,C449,Electronics,TechZone,North,Instagram,36740.73,3,4
+O1151,2024-02-12,C260,Electronics,TechZone,North,Instagram,44251.0,2,4
+O1152,2024-02-05,C288,Fashion,StyleHub,East,Google Ads,20886.05,2,5
+O1153,2024-04-25,C476,Electronics,SmartBuy,North,YouTube Ads,12897.66,3,3
+O1154,2024-02-21,C461,Electronics,TechZone,South,YouTube Ads,16732.12,2,3
+O1155,2024-04-05,C408,Fashion,StyleHub,East,YouTube Ads,21617.57,2,6
+O1156,2024-04-06,C574,Home Decor,DecoHub,West,Google Ads,894.44,1,7
+O1157,2024-05-28,C314,Fashion,TrendWear,East,Email,3347.95,2,6
+O1158,2024-05-10,C598,Home Decor,HomeEssence,North,Facebook,31927.5,3,9
+O1159,2024-03-07,C526,Beauty,GlowStore,East,Google Ads,42820.02,1,5
+O1160,2024-03-24,C425,Electronics,ElectroWorld,East,Instagram,28025.83,2,6
+O1161,2024-01-19,C173,Home Decor,DecoHub,South,YouTube Ads,4374.6,1,10
+O1162,2024-05-17,C166,Sports,FitNation,East,Google Ads,48891.54,3,3
+O1163,2024-06-17,C563,Home Decor,DecoHub,South,YouTube Ads,5545.7,2,2
+O1164,2024-05-20,C506,Electronics,SmartBuy,North,YouTube Ads,1032.56,1,6
+O1165,2024-03-21,C564,Electronics,TechZone,North,YouTube Ads,28803.63,2,6
+O1166,2024-06-14,C168,Sports,ProGear,East,Google Ads,7063.0,1,10
+O1167,2024-05-14,C514,Electronics,SmartBuy,East,Instagram,38728.99,3,6
+O1168,2024-02-08,C478,Home Decor,DecoHub,East,Google Ads,8310.42,3,4
+O1169,2024-04-02,C457,Fashion,UrbanLook,South,Email,25100.61,2,8
+O1170,2024-06-16,C384,Sports,ProGear,South,Email,2237.43,2,3
+O1171,2024-04-10,C252,Fashion,UrbanLook,South,Instagram,6245.17,3,9
+O1172,2024-05-10,C233,Sports,FitNation,East,Instagram,32306.23,2,6
+O1173,2024-05-06,C134,Sports,ProGear,East,Google Ads,12882.53,2,8
+O1174,2024-06-13,C216,Fashion,UrbanLook,East,Google Ads,37130.0,1,5
+O1175,2024-01-01,C260,Fashion,StyleHub,South,Google Ads,41883.16,2,10
+O1176,2024-02-12,C404,Sports,FitNation,South,YouTube Ads,1023.68,2,8
+O1177,2024-03-10,C458,Beauty,BeautyCart,East,YouTube Ads,21108.54,2,6
+O1178,2024-02-10,C519,Home Decor,DecoHub,West,YouTube Ads,36192.25,2,2
+O1179,2024-05-01,C414,Home Decor,DecoHub,South,Email,18060.84,2,6
+O1180,2024-03-31,C508,Fashion,UrbanLook,West,YouTube Ads,33079.44,2,7
+O1181,2024-02-28,C490,Fashion,UrbanLook,East,Instagram,7777.64,2,9
+O1182,2024-03-08,C453,Home Decor,DecoHub,South,Facebook,1387.27,3,2
+O1183,2024-06-08,C189,Beauty,BeautyCart,South,Facebook,40209.26,2,6
+O1184,2024-06-12,C256,Fashion,UrbanLook,North,Instagram,23052.28,3,5
+O1185,2024-04-16,C311,Electronics,SmartBuy,South,Google Ads,33153.85,3,3
+O1186,2024-06-29,C109,Beauty,BeautyCart,South,Google Ads,35289.57,2,2
+O1187,2024-05-28,C365,Home Decor,DecoHub,South,Facebook,4592.66,2,3
+O1188,2024-03-01,C597,Beauty,BeautyCart,East,Instagram,15151.47,2,7
+O1189,2024-01-31,C113,Fashion,TrendWear,South,Google Ads,13654.89,2,5
+O1190,2024-03-21,C390,Fashion,StyleHub,East,Facebook,44007.71,3,9
+O1191,2024-05-04,C183,Home Decor,DecoHub,North,YouTube Ads,22287.55,3,6
+O1192,2024-04-20,C497,Beauty,GlowStore,South,Instagram,26609.19,1,2
+O1193,2024-01-26,C472,Electronics,TechZone,East,Google Ads,37632.06,1,10
+O1194,2024-05-20,C513,Fashion,TrendWear,North,YouTube Ads,13759.92,2,4
+O1195,2024-06-25,C586,Sports,ProGear,East,Google Ads,34062.61,3,6
+O1196,2024-04-09,C341,Home Decor,HomeEssence,North,Facebook,38089.52,2,6
+O1197,2024-05-26,C366,Electronics,ElectroWorld,West,Email,49383.68,1,2
+O1198,2024-02-10,C394,Sports,ProGear,South,Email,9427.69,1,4
+O1199,2024-04-14,C284,Electronics,SmartBuy,West,Email,32616.79,3,4
+O1200,2024-01-04,C260,Fashion,StyleHub,South,Google Ads,19588.57,1,8
+O1201,2024-04-14,C117,Beauty,GlowStore,West,Google Ads,8992.18,3,7
+O1202,2024-06-07,C409,Home Decor,DecoHub,East,YouTube Ads,7245.31,2,2
+O1203,2024-02-26,C539,Sports,FitNation,North,Email,7264.66,2,2
+O1204,2024-06-22,C378,Fashion,StyleHub,East,Google Ads,43430.5,1,3
+O1205,2024-06-23,C212,Sports,ProGear,North,Instagram,41618.03,1,3
+O1206,2024-05-18,C470,Sports,FitNation,South,Instagram,32259.48,1,10
+O1207,2024-01-27,C466,Fashion,TrendWear,North,Google Ads,24045.44,2,6
+O1208,2024-03-19,C347,Sports,FitNation,West,Instagram,7873.65,2,3
+O1209,2024-06-10,C420,Beauty,BeautyCart,South,Google Ads,24068.41,1,2
+O1210,2024-03-30,C436,Fashion,UrbanLook,East,Google Ads,26820.17,1,10
+O1211,2024-01-30,C467,Home Decor,HomeEssence,West,Facebook,33074.7,2,10
+O1212,2024-06-15,C399,Beauty,BeautyCart,West,Facebook,21942.65,2,6
+O1213,2024-02-08,C512,Home Decor,HomeEssence,South,Instagram,47826.92,2,3
+O1214,2024-03-15,C351,Beauty,GlowStore,East,Google Ads,5332.48,3,3
+O1215,2024-02-21,C192,Beauty,BeautyCart,North,Email,8945.3,1,2
+O1216,2024-01-17,C403,Fashion,StyleHub,West,YouTube Ads,29760.41,2,5
+O1217,2024-03-22,C568,Sports,FitNation,South,Email,8206.43,2,9
+O1218,2024-01-09,C200,Electronics,TechZone,East,YouTube Ads,37510.88,2,7
+O1219,2024-06-24,C495,Beauty,GlowStore,North,Google Ads,46278.39,2,7
+O1220,2024-05-18,C488,Sports,FitNation,West,Google Ads,41403.65,1,10
+O1221,2024-06-04,C261,Electronics,ElectroWorld,East,YouTube Ads,19734.79,3,6
+O1222,2024-02-10,C387,Beauty,GlowStore,North,Email,48171.35,1,3
+O1223,2024-04-02,C200,Sports,FitNation,North,Google Ads,49147.75,2,2
+O1224,2024-04-05,C513,Fashion,TrendWear,East,Instagram,38642.42,2,9
+O1225,2024-04-22,C466,Sports,FitNation,West,Instagram,41795.35,1,9
+O1226,2024-04-25,C544,Sports,ProGear,West,YouTube Ads,14260.05,2,10
+O1227,2024-06-15,C501,Fashion,StyleHub,South,Google Ads,36917.49,3,2
+O1228,2024-02-25,C222,Electronics,SmartBuy,South,Instagram,23430.81,3,10
+O1229,2024-03-22,C357,Home Decor,HomeEssence,East,Facebook,35908.01,2,4
+O1230,2024-01-16,C545,Electronics,TechZone,North,Facebook,31102.43,1,7
+O1231,2024-02-23,C300,Home Decor,HomeEssence,West,Instagram,31105.19,2,9
+O1232,2024-04-06,C127,Sports,FitNation,East,Instagram,19258.51,3,10
+O1233,2024-05-04,C207,Sports,FitNation,West,Email,19571.11,3,5
+O1234,2024-04-14,C478,Fashion,UrbanLook,West,Facebook,3682.46,2,7
+O1235,2024-01-13,C368,Home Decor,HomeEssence,South,Google Ads,29931.04,3,9
+O1236,2024-05-31,C276,Home Decor,HomeEssence,West,Instagram,19774.59,1,5
+O1237,2024-06-28,C471,Sports,ProGear,North,Email,39445.62,3,4
+O1238,2024-01-05,C575,Electronics,ElectroWorld,North,YouTube Ads,24964.45,3,5
+O1239,2024-02-22,C115,Fashion,TrendWear,South,YouTube Ads,26318.65,3,3
+O1240,2024-03-14,C236,Home Decor,HomeEssence,South,Google Ads,32176.11,1,6
+O1241,2024-01-10,C470,Beauty,BeautyCart,West,Email,42215.38,2,4
+O1242,2024-06-11,C101,Electronics,TechZone,East,Instagram,31987.61,2,2
+O1243,2024-02-04,C304,Sports,FitNation,North,Email,5430.59,2,6
+O1244,2024-04-19,C459,Electronics,ElectroWorld,South,Google Ads,3907.38,3,5
+O1245,2024-05-16,C555,Sports,ProGear,South,YouTube Ads,21884.97,2,9
+O1246,2024-06-21,C195,Sports,ProGear,South,Instagram,38629.49,1,5
+O1247,2024-01-24,C553,Beauty,BeautyCart,North,Google Ads,33737.75,2,6
+O1248,2024-05-03,C384,Beauty,BeautyCart,West,Facebook,7610.26,2,10
+O1249,2024-04-23,C200,Sports,ProGear,North,Facebook,15821.87,1,10
+O1250,2024-02-14,C514,Sports,ProGear,West,Google Ads,11082.09,3,9
+O1251,2024-06-28,C128,Home Decor,DecoHub,West,Email,20318.41,2,7
+O1252,2024-06-02,C400,Sports,ProGear,West,Google Ads,43972.07,2,3
+O1253,2024-03-02,C268,Fashion,UrbanLook,North,YouTube Ads,21901.89,1,9
+O1254,2024-01-22,C238,Beauty,GlowStore,West,Google Ads,28801.81,1,3
+O1255,2024-05-15,C355,Beauty,BeautyCart,East,Facebook,18790.41,3,2
+O1256,2024-02-16,C416,Beauty,GlowStore,North,Facebook,27218.04,2,10
+O1257,2024-06-20,C238,Sports,ProGear,East,Instagram,5903.09,2,6
+O1258,2024-06-11,C350,Sports,FitNation,West,Google Ads,15399.33,3,5
+O1259,2024-06-21,C403,Beauty,GlowStore,West,Instagram,19000.29,1,6
+O1260,2024-05-20,C226,Sports,ProGear,North,Google Ads,43532.52,1,10
+O1261,2024-05-31,C555,Home Decor,HomeEssence,East,YouTube Ads,41441.54,2,2
+O1262,2024-02-13,C186,Sports,ProGear,South,YouTube Ads,1078.72,1,9
+O1263,2024-01-22,C573,Beauty,BeautyCart,South,Facebook,38524.62,2,6
+O1264,2024-06-09,C190,Home Decor,HomeEssence,East,Email,33593.24,1,4
+O1265,2024-04-02,C532,Home Decor,HomeEssence,East,Google Ads,8143.55,3,10
+O1266,2024-04-29,C593,Fashion,UrbanLook,South,Facebook,19942.99,2,6
+O1267,2024-03-21,C571,Fashion,UrbanLook,North,Email,3044.48,1,8
+O1268,2024-04-27,C331,Beauty,GlowStore,South,Email,21187.75,1,7
+O1269,2024-03-06,C519,Home Decor,DecoHub,South,YouTube Ads,24565.89,2,10
+O1270,2024-06-23,C216,Fashion,StyleHub,West,Instagram,17018.98,2,7
+O1271,2024-05-07,C493,Sports,FitNation,East,Facebook,29176.88,3,6
+O1272,2024-04-06,C305,Sports,FitNation,East,Facebook,31171.48,2,10
+O1273,2024-05-27,C385,Sports,FitNation,West,Instagram,26126.31,3,5
+O1274,2024-06-23,C591,Fashion,TrendWear,North,Instagram,23901.94,2,9
+O1275,2024-06-12,C476,Fashion,StyleHub,South,YouTube Ads,16927.65,3,9
+O1276,2024-03-14,C149,Sports,FitNation,East,Email,42978.11,3,3
+O1277,2024-01-30,C186,Fashion,TrendWear,West,Facebook,22745.45,3,7
+O1278,2024-05-04,C417,Home Decor,HomeEssence,South,Google Ads,13898.45,1,3
+O1279,2024-01-30,C547,Sports,FitNation,West,Email,10181.62,2,10
+O1280,2024-04-09,C283,Sports,ProGear,East,Facebook,13481.55,2,8
+O1281,2024-02-04,C301,Electronics,ElectroWorld,North,Google Ads,7825.63,2,4
+O1282,2024-04-29,C530,Home Decor,DecoHub,North,Instagram,40128.21,3,5
+O1283,2024-02-24,C130,Sports,ProGear,West,Google Ads,2144.92,1,6
+O1284,2024-05-26,C391,Home Decor,HomeEssence,West,Email,7521.24,1,7
+O1285,2024-06-19,C430,Home Decor,DecoHub,North,Email,44711.73,1,7
+O1286,2024-01-29,C439,Home Decor,HomeEssence,East,Facebook,3945.48,1,4
+O1287,2024-01-15,C272,Fashion,TrendWear,South,Email,34737.48,2,5
+O1288,2024-01-25,C476,Fashion,StyleHub,West,Instagram,35231.84,3,2
+O1289,2024-04-01,C523,Beauty,GlowStore,East,Email,30183.46,3,2
+O1290,2024-02-18,C541,Beauty,GlowStore,East,Instagram,28683.24,3,4
+O1291,2024-04-28,C574,Beauty,GlowStore,West,Email,19696.62,3,6
+O1292,2024-01-08,C480,Home Decor,DecoHub,West,Email,10566.95,2,4
+O1293,2024-06-08,C431,Home Decor,HomeEssence,South,Instagram,34665.04,3,4
+O1294,2024-03-13,C304,Home Decor,DecoHub,East,Instagram,44680.08,1,3
+O1295,2024-01-17,C168,Home Decor,HomeEssence,East,YouTube Ads,6108.5,2,9
+O1296,2024-01-10,C571,Sports,ProGear,East,Google Ads,2833.13,2,7
+O1297,2024-05-20,C304,Home Decor,DecoHub,East,Instagram,2068.41,1,2
+O1298,2024-06-03,C329,Sports,ProGear,South,YouTube Ads,5733.55,1,9
+O1299,2024-02-09,C147,Home Decor,DecoHub,South,Facebook,29890.67,1,5
+O1300,2024-03-06,C184,Home Decor,HomeEssence,West,Email,9482.87,2,9
+O1301,2024-05-05,C578,Home Decor,HomeEssence,West,YouTube Ads,8914.22,3,2
+O1302,2024-04-29,C423,Beauty,GlowStore,East,Instagram,23749.06,1,9
+O1303,2024-03-25,C151,Beauty,BeautyCart,North,Instagram,25549.55,2,6
+O1304,2024-02-19,C202,Beauty,BeautyCart,North,YouTube Ads,44155.23,3,4
+O1305,2024-01-31,C344,Home Decor,DecoHub,East,Email,39843.51,2,9
+O1306,2024-05-18,C133,Fashion,StyleHub,South,Instagram,35866.58,2,10
+O1307,2024-05-24,C463,Home Decor,DecoHub,East,Facebook,39913.55,3,6
+O1308,2024-01-30,C189,Sports,ProGear,South,Email,23040.93,2,5
+O1309,2024-06-22,C486,Home Decor,DecoHub,South,YouTube Ads,17189.07,1,4
+O1310,2024-01-25,C540,Home Decor,DecoHub,South,Facebook,18214.98,1,7
+O1311,2024-04-04,C541,Electronics,ElectroWorld,West,Facebook,46849.11,1,7
+O1312,2024-06-27,C108,Fashion,StyleHub,West,Google Ads,12350.89,3,3
+O1313,2024-03-09,C448,Home Decor,DecoHub,East,Email,20096.2,3,8
+O1314,2024-01-14,C445,Sports,ProGear,South,YouTube Ads,25631.26,1,9
+O1315,2024-03-18,C486,Sports,FitNation,South,Instagram,23401.86,3,7
+O1316,2024-03-26,C186,Fashion,UrbanLook,East,Email,10025.71,1,3
+O1317,2024-01-21,C507,Beauty,GlowStore,East,Instagram,25692.77,3,8
+O1318,2024-01-01,C130,Sports,FitNation,East,Email,28715.41,1,9
+O1319,2024-01-24,C118,Electronics,ElectroWorld,North,Google Ads,13540.25,3,8
+O1320,2024-01-28,C447,Beauty,BeautyCart,West,Google Ads,2902.25,3,4
+O1321,2024-06-22,C177,Beauty,GlowStore,South,YouTube Ads,37740.2,3,7
+O1322,2024-01-28,C505,Electronics,SmartBuy,West,Google Ads,36078.7,2,10
+O1323,2024-04-08,C208,Sports,ProGear,West,Google Ads,2168.95,3,3
+O1324,2024-05-24,C523,Home Decor,HomeEssence,West,Email,21265.08,2,5
+O1325,2024-04-06,C184,Sports,FitNation,West,YouTube Ads,32380.15,2,8
+O1326,2024-05-06,C432,Fashion,TrendWear,West,Facebook,4821.46,3,7
+O1327,2024-06-04,C354,Electronics,SmartBuy,East,Facebook,41054.44,3,4
+O1328,2024-03-10,C493,Electronics,TechZone,East,Email,28803.83,3,9
+O1329,2024-02-28,C410,Fashion,StyleHub,South,Google Ads,21283.23,2,2
+O1330,2024-03-30,C295,Electronics,SmartBuy,East,Facebook,19035.76,3,3
+O1331,2024-06-11,C403,Fashion,TrendWear,West,Google Ads,30781.58,1,7
+O1332,2024-01-16,C347,Fashion,TrendWear,South,Instagram,36807.24,1,9
+O1333,2024-06-29,C335,Sports,ProGear,West,Email,45588.61,2,6
+O1334,2024-01-31,C557,Beauty,BeautyCart,South,Email,2034.47,2,4
+O1335,2024-04-02,C248,Fashion,UrbanLook,South,Email,40207.91,1,8
+O1336,2024-02-04,C415,Sports,FitNation,East,Google Ads,8922.65,3,4
+O1337,2024-05-25,C112,Home Decor,HomeEssence,South,Facebook,12301.72,2,5
+O1338,2024-04-18,C398,Beauty,GlowStore,East,Email,43485.58,1,4
+O1339,2024-05-31,C344,Home Decor,HomeEssence,East,Email,6422.37,3,9
+O1340,2024-05-01,C437,Electronics,SmartBuy,West,Instagram,49074.77,3,7
+O1341,2024-01-01,C391,Home Decor,DecoHub,East,Email,36018.19,2,8
+O1342,2024-02-12,C279,Beauty,GlowStore,West,YouTube Ads,18954.59,1,8
+O1343,2024-04-22,C156,Sports,FitNation,West,Email,1498.64,3,2
+O1344,2024-04-17,C246,Home Decor,DecoHub,South,Google Ads,19649.64,2,2
+O1345,2024-05-17,C330,Sports,ProGear,South,Instagram,45041.1,3,3
+O1346,2024-02-02,C382,Home Decor,HomeEssence,West,Facebook,38278.86,2,7
+O1347,2024-04-11,C362,Electronics,ElectroWorld,South,YouTube Ads,17366.14,2,2
+O1348,2024-06-21,C482,Electronics,ElectroWorld,East,YouTube Ads,35663.45,2,4
+O1349,2024-05-10,C354,Sports,FitNation,North,Facebook,4223.55,3,10
+O1350,2024-03-03,C510,Electronics,ElectroWorld,East,YouTube Ads,14793.05,3,4
+O1351,2024-03-26,C417,Sports,FitNation,West,YouTube Ads,47949.78,1,10
+O1352,2024-05-21,C411,Electronics,TechZone,East,Facebook,48239.84,3,6
+O1353,2024-02-10,C282,Fashion,UrbanLook,South,Google Ads,3920.47,2,2
+O1354,2024-03-31,C463,Electronics,SmartBuy,East,Instagram,20572.59,1,5
+O1355,2024-04-29,C428,Home Decor,HomeEssence,South,Email,23717.8,2,5
+O1356,2024-01-13,C302,Electronics,TechZone,East,Email,20763.93,2,9
+O1357,2024-04-03,C315,Fashion,TrendWear,South,YouTube Ads,48886.54,2,5
+O1358,2024-05-14,C296,Home Decor,HomeEssence,East,YouTube Ads,6339.67,3,10
+O1359,2024-01-15,C370,Beauty,BeautyCart,East,YouTube Ads,2960.91,1,3
+O1360,2024-05-21,C262,Fashion,UrbanLook,East,Facebook,34928.86,1,7
+O1361,2024-03-05,C586,Sports,ProGear,North,Google Ads,43291.49,3,6
+O1362,2024-01-03,C461,Electronics,TechZone,South,Instagram,37616.78,1,9
+O1363,2024-06-12,C312,Electronics,SmartBuy,West,Instagram,34605.58,1,10
+O1364,2024-05-07,C362,Home Decor,DecoHub,West,YouTube Ads,45108.03,1,3
+O1365,2024-02-14,C247,Sports,ProGear,North,Facebook,40110.47,2,2
+O1366,2024-01-07,C188,Sports,ProGear,West,YouTube Ads,38350.03,3,7
+O1367,2024-05-13,C200,Electronics,SmartBuy,South,YouTube Ads,32598.3,3,3
+O1368,2024-03-12,C281,Electronics,TechZone,North,YouTube Ads,3201.69,3,2
+O1369,2024-06-16,C530,Sports,FitNation,West,Instagram,48520.66,1,8
+O1370,2024-03-04,C317,Sports,ProGear,East,Instagram,38338.72,3,9
+O1371,2024-06-02,C453,Sports,FitNation,East,Email,24872.19,3,10
+O1372,2024-05-17,C433,Sports,ProGear,South,Google Ads,22302.8,1,6
+O1373,2024-01-03,C192,Fashion,StyleHub,East,Email,4437.53,3,10
+O1374,2024-02-03,C298,Sports,ProGear,East,Google Ads,37706.14,3,5
+O1375,2024-05-08,C459,Fashion,StyleHub,West,Email,31268.58,2,5
+O1376,2024-04-06,C388,Fashion,UrbanLook,North,Email,25905.01,2,6
+O1377,2024-05-26,C320,Electronics,TechZone,West,Instagram,11441.84,1,7
+O1378,2024-03-24,C369,Sports,ProGear,West,YouTube Ads,580.07,3,6
+O1379,2024-01-25,C545,Fashion,UrbanLook,North,YouTube Ads,41531.27,1,10
+O1380,2024-06-03,C403,Fashion,StyleHub,North,Facebook,38980.4,2,5
+O1381,2024-02-06,C246,Electronics,TechZone,East,Google Ads,28363.6,2,5
+O1382,2024-02-06,C104,Sports,ProGear,North,YouTube Ads,17731.28,2,3
+O1383,2024-03-22,C231,Sports,FitNation,East,Email,35542.62,1,5
+O1384,2024-04-23,C187,Beauty,GlowStore,North,Email,16680.79,1,6
+O1385,2024-03-19,C234,Electronics,ElectroWorld,West,YouTube Ads,9498.86,3,3
+O1386,2024-01-21,C452,Beauty,GlowStore,South,Email,49388.42,1,5
+O1387,2024-04-11,C105,Fashion,UrbanLook,South,YouTube Ads,2754.95,1,3
+O1388,2024-04-23,C254,Sports,ProGear,West,Instagram,13645.23,2,2
+O1389,2024-06-21,C327,Fashion,TrendWear,West,Email,9184.26,1,2
+O1390,2024-03-06,C423,Beauty,BeautyCart,South,Google Ads,40729.72,2,10
+O1391,2024-04-05,C374,Home Decor,HomeEssence,South,Instagram,9582.66,2,8
+O1392,2024-04-12,C284,Sports,ProGear,South,Email,11729.14,1,8
+O1393,2024-05-03,C478,Fashion,TrendWear,North,Email,15568.33,3,8
+O1394,2024-01-16,C557,Beauty,BeautyCart,West,Instagram,9548.55,2,6
+O1395,2024-06-21,C537,Sports,FitNation,North,Facebook,10460.04,1,7
+O1396,2024-05-04,C218,Electronics,ElectroWorld,North,Email,36363.29,2,9
+O1397,2024-06-21,C152,Beauty,BeautyCart,East,Email,49225.88,2,8
+O1398,2024-01-14,C456,Home Decor,DecoHub,West,Google Ads,21538.68,3,3
+O1399,2024-05-07,C523,Sports,ProGear,East,Facebook,30051.74,2,5
+O1400,2024-05-22,C323,Fashion,UrbanLook,South,Facebook,12745.07,3,9
+O1401,2024-01-28,C582,Sports,ProGear,West,YouTube Ads,22577.18,2,2
+O1402,2024-06-13,C341,Fashion,StyleHub,West,Facebook,17757.97,3,6
+O1403,2024-03-25,C214,Home Decor,DecoHub,South,Google Ads,21218.74,2,7
+O1404,2024-04-26,C579,Sports,ProGear,North,Email,41764.63,2,7
+O1405,2024-01-15,C346,Electronics,SmartBuy,South,Instagram,23364.75,3,9
+O1406,2024-03-22,C314,Electronics,TechZone,East,Facebook,49868.54,3,2
+O1407,2024-05-09,C377,Beauty,BeautyCart,South,Instagram,35721.17,1,5
+O1408,2024-03-16,C226,Beauty,GlowStore,South,Google Ads,5859.76,3,4
+O1409,2024-06-22,C411,Beauty,GlowStore,North,Instagram,36581.05,2,6
+O1410,2024-03-04,C115,Fashion,TrendWear,West,Google Ads,12773.71,1,3
+O1411,2024-05-07,C478,Beauty,GlowStore,South,Facebook,9583.67,1,9
+O1412,2024-04-08,C389,Electronics,ElectroWorld,West,YouTube Ads,15232.65,2,10
+O1413,2024-01-10,C327,Fashion,StyleHub,East,Email,21039.93,3,2
+O1414,2024-05-01,C505,Home Decor,HomeEssence,North,Facebook,42762.39,1,8
+O1415,2024-05-19,C467,Fashion,TrendWear,South,Facebook,37163.53,1,6
+O1416,2024-06-21,C512,Home Decor,HomeEssence,North,YouTube Ads,18493.48,3,9
+O1417,2024-02-01,C524,Fashion,StyleHub,West,Instagram,2639.42,1,3
+O1418,2024-05-12,C404,Electronics,TechZone,North,Google Ads,36582.73,2,3
+O1419,2024-03-10,C377,Electronics,TechZone,North,Instagram,3396.44,3,5
+O1420,2024-04-21,C255,Home Decor,DecoHub,South,YouTube Ads,20217.2,1,7
+O1421,2024-05-02,C269,Home Decor,HomeEssence,East,YouTube Ads,13212.43,1,6
+O1422,2024-06-23,C194,Electronics,TechZone,South,YouTube Ads,13965.47,2,9
+O1423,2024-02-18,C156,Fashion,TrendWear,South,Facebook,23916.45,2,6
+O1424,2024-01-01,C205,Home Decor,DecoHub,East,Google Ads,42746.08,2,8
+O1425,2024-02-19,C126,Fashion,TrendWear,South,Email,43109.28,3,6
+O1426,2024-05-15,C551,Fashion,UrbanLook,East,Facebook,40331.54,1,3
+O1427,2024-03-31,C516,Sports,ProGear,West,Google Ads,6889.84,2,5
+O1428,2024-02-05,C289,Beauty,GlowStore,North,Instagram,11220.83,2,8
+O1429,2024-02-24,C460,Sports,ProGear,East,Google Ads,34190.86,3,10
+O1430,2024-01-03,C303,Electronics,TechZone,South,Email,45289.68,3,7
+O1431,2024-01-03,C304,Fashion,UrbanLook,West,YouTube Ads,3612.77,2,2
+O1432,2024-04-02,C160,Beauty,BeautyCart,East,YouTube Ads,2133.25,1,9
+O1433,2024-02-18,C586,Beauty,GlowStore,West,Instagram,37390.67,3,10
+O1434,2024-01-28,C562,Home Decor,HomeEssence,North,YouTube Ads,20485.72,3,3
+O1435,2024-03-20,C514,Electronics,TechZone,West,Email,29282.35,1,7
+O1436,2024-05-22,C485,Fashion,TrendWear,North,Instagram,25776.1,1,3
+O1437,2024-05-27,C286,Beauty,BeautyCart,South,Google Ads,48844.98,2,6
+O1438,2024-01-09,C169,Beauty,GlowStore,South,Facebook,44771.12,2,2
+O1439,2024-05-10,C131,Fashion,TrendWear,East,YouTube Ads,9864.0,3,6
+O1440,2024-02-05,C582,Electronics,SmartBuy,East,Facebook,16350.17,2,7
+O1441,2024-01-01,C473,Electronics,TechZone,South,Email,3946.71,3,8
+O1442,2024-06-23,C215,Sports,FitNation,North,YouTube Ads,22719.51,2,2
+O1443,2024-06-15,C235,Sports,FitNation,South,Google Ads,31885.74,3,10
+O1444,2024-01-19,C179,Electronics,SmartBuy,South,Instagram,22490.61,2,4
+O1445,2024-02-25,C246,Beauty,BeautyCart,North,YouTube Ads,40399.86,2,9
+O1446,2024-05-04,C197,Home Decor,DecoHub,West,YouTube Ads,26611.94,2,6
+O1447,2024-03-30,C493,Beauty,BeautyCart,West,YouTube Ads,22382.83,1,3
+O1448,2024-02-17,C340,Beauty,GlowStore,East,Google Ads,36770.83,3,10
+O1449,2024-04-25,C109,Home Decor,HomeEssence,South,Facebook,37605.28,2,10
+O1450,2024-06-22,C479,Sports,FitNation,West,Instagram,10518.9,1,6
+O1451,2024-02-10,C348,Electronics,TechZone,North,Facebook,47940.94,3,2
+O1452,2024-04-08,C475,Home Decor,HomeEssence,East,Email,33149.68,1,10
+O1453,2024-06-06,C558,Sports,ProGear,North,Google Ads,22830.35,1,7
+O1454,2024-04-23,C203,Sports,ProGear,North,Facebook,37846.18,3,7
+O1455,2024-01-12,C180,Home Decor,DecoHub,South,Instagram,15208.03,2,8
+O1456,2024-01-19,C119,Fashion,StyleHub,East,Google Ads,31384.63,3,2
+O1457,2024-06-21,C507,Sports,ProGear,North,Facebook,12812.51,2,3
+O1458,2024-04-01,C275,Electronics,SmartBuy,South,Facebook,20269.81,1,3
+O1459,2024-05-02,C143,Sports,ProGear,East,Facebook,11851.46,1,3
+O1460,2024-06-17,C317,Sports,ProGear,South,Facebook,33819.76,3,6
+O1461,2024-06-25,C439,Electronics,SmartBuy,East,Instagram,35353.25,2,5
+O1462,2024-03-08,C148,Beauty,BeautyCart,East,YouTube Ads,8356.78,1,9
+O1463,2024-02-11,C194,Sports,ProGear,North,YouTube Ads,36949.21,2,4
+O1464,2024-04-29,C192,Home Decor,HomeEssence,East,Email,6887.11,3,5
+O1465,2024-03-25,C544,Beauty,GlowStore,East,Google Ads,6751.62,3,9
+O1466,2024-05-17,C318,Home Decor,HomeEssence,South,Google Ads,21067.87,3,6
+O1467,2024-06-23,C558,Sports,ProGear,North,Google Ads,26276.95,1,6
+O1468,2024-02-25,C498,Home Decor,HomeEssence,West,YouTube Ads,44459.82,3,8
+O1469,2024-04-12,C162,Fashion,UrbanLook,East,Instagram,15368.76,3,5
+O1470,2024-01-28,C269,Sports,FitNation,South,Instagram,41786.69,1,8
+O1471,2024-03-23,C106,Electronics,TechZone,West,Instagram,18688.02,1,4
+O1472,2024-03-01,C221,Electronics,TechZone,East,Facebook,38653.56,1,8
+O1473,2024-06-06,C426,Home Decor,DecoHub,North,Instagram,11473.22,2,6
+O1474,2024-05-09,C136,Fashion,StyleHub,North,Email,15711.1,3,7
+O1475,2024-05-20,C103,Fashion,StyleHub,South,Facebook,4787.2,2,3
+O1476,2024-02-27,C304,Home Decor,HomeEssence,North,Google Ads,9389.86,2,3
+O1477,2024-01-21,C247,Home Decor,HomeEssence,North,Instagram,29537.03,2,5
+O1478,2024-05-20,C331,Sports,ProGear,East,YouTube Ads,4691.51,1,7
+O1479,2024-04-11,C129,Home Decor,HomeEssence,East,Facebook,30547.06,3,6
+O1480,2024-06-02,C215,Electronics,TechZone,East,Instagram,30278.89,1,6
+O1481,2024-05-23,C405,Fashion,UrbanLook,South,YouTube Ads,14177.24,1,7
+O1482,2024-01-28,C580,Sports,FitNation,West,Google Ads,12339.59,3,5
+O1483,2024-06-12,C129,Sports,ProGear,East,YouTube Ads,4429.77,1,6
+O1484,2024-01-11,C515,Fashion,UrbanLook,North,YouTube Ads,45156.91,1,5
+O1485,2024-04-09,C386,Beauty,BeautyCart,South,Email,33841.74,1,3
+O1486,2024-03-09,C163,Fashion,UrbanLook,West,Instagram,25528.67,2,6
+O1487,2024-03-08,C355,Electronics,TechZone,East,Google Ads,3330.15,2,8
+O1488,2024-03-13,C542,Beauty,GlowStore,West,Google Ads,48820.95,2,6
+O1489,2024-01-09,C189,Beauty,BeautyCart,East,Instagram,42449.71,1,8
+O1490,2024-03-02,C304,Home Decor,HomeEssence,South,Email,46839.1,2,9
+O1491,2024-03-22,C301,Sports,FitNation,East,Facebook,36314.14,1,9
+O1492,2024-05-26,C563,Beauty,BeautyCart,South,YouTube Ads,17036.18,3,10
+O1493,2024-05-12,C575,Fashion,TrendWear,North,Instagram,29408.35,3,10
+O1494,2024-01-30,C474,Electronics,TechZone,East,Google Ads,18187.9,1,5
+O1495,2024-06-14,C171,Sports,FitNation,South,Google Ads,36424.99,2,5
+O1496,2024-03-04,C465,Beauty,GlowStore,South,Facebook,48245.55,3,6
+O1497,2024-04-26,C445,Beauty,GlowStore,North,Instagram,49956.12,2,2
+O1498,2024-03-07,C157,Electronics,ElectroWorld,North,YouTube Ads,19062.12,3,3
+O1499,2024-02-18,C570,Beauty,GlowStore,West,Instagram,7212.84,2,5
+O1500,2024-02-05,C442,Sports,ProGear,West,Google Ads,17744.88,3,2
+O1501,2024-04-27,C297,Home Decor,HomeEssence,West,YouTube Ads,33929.97,2,9
+O1502,2024-04-24,C156,Electronics,TechZone,North,Instagram,40284.94,2,4
+O1503,2024-01-23,C397,Electronics,SmartBuy,West,Email,8618.94,2,10
+O1504,2024-06-02,C433,Sports,ProGear,North,Email,43153.71,2,5
+O1505,2024-06-07,C127,Beauty,GlowStore,West,Email,7362.85,1,2
+O1506,2024-06-02,C478,Sports,FitNation,North,YouTube Ads,14188.03,2,7
+O1507,2024-02-26,C112,Electronics,TechZone,East,Email,19636.9,1,9
+O1508,2024-01-19,C502,Electronics,SmartBuy,South,Facebook,10054.99,1,4
+O1509,2024-04-16,C407,Fashion,UrbanLook,East,Instagram,30817.67,2,6
+O1510,2024-05-20,C481,Electronics,ElectroWorld,East,Email,23396.66,2,6
+O1511,2024-06-14,C438,Sports,FitNation,South,Instagram,8693.97,1,3
+O1512,2024-05-22,C257,Electronics,SmartBuy,South,Instagram,46892.12,3,4
+O1513,2024-01-05,C481,Home Decor,DecoHub,West,Instagram,39517.21,1,10
+O1514,2024-04-30,C522,Sports,FitNation,West,Email,44740.73,3,6
+O1515,2024-06-18,C579,Electronics,ElectroWorld,West,Google Ads,12284.25,1,3
+O1516,2024-01-25,C172,Sports,FitNation,North,Email,33670.14,3,3
+O1517,2024-03-04,C512,Fashion,UrbanLook,North,YouTube Ads,28649.64,1,5
+O1518,2024-05-29,C118,Home Decor,DecoHub,East,Email,47136.48,1,6
+O1519,2024-05-22,C424,Sports,FitNation,East,Facebook,16397.13,2,7
+O1520,2024-01-19,C215,Fashion,UrbanLook,East,Email,33510.57,2,3
+O1521,2024-02-09,C417,Electronics,TechZone,East,YouTube Ads,19701.79,2,3
+O1522,2024-05-06,C498,Beauty,BeautyCart,West,Email,5168.19,2,10
+O1523,2024-06-29,C396,Fashion,StyleHub,West,Google Ads,37860.95,3,5
+O1524,2024-06-11,C277,Beauty,BeautyCart,North,Instagram,44718.07,2,2
+O1525,2024-05-15,C426,Fashion,StyleHub,North,YouTube Ads,16910.11,3,10
+O1526,2024-04-14,C480,Sports,ProGear,West,Instagram,40722.95,3,2
+O1527,2024-05-28,C354,Home Decor,HomeEssence,East,Facebook,7004.37,3,9
+O1528,2024-01-24,C137,Sports,ProGear,East,Email,48362.25,1,5
+O1529,2024-02-21,C342,Home Decor,HomeEssence,West,YouTube Ads,10804.52,3,4
+O1530,2024-01-09,C533,Sports,ProGear,North,Google Ads,36133.78,3,6
+O1531,2024-05-05,C152,Electronics,SmartBuy,North,Google Ads,676.85,1,6
+O1532,2024-05-31,C480,Sports,FitNation,East,Instagram,23228.39,1,4
+O1533,2024-03-24,C118,Electronics,TechZone,North,Email,37009.91,3,3
+O1534,2024-06-19,C284,Sports,FitNation,West,Email,15847.0,2,7
+O1535,2024-05-26,C254,Electronics,SmartBuy,West,Facebook,23934.07,3,3
+O1536,2024-03-12,C262,Sports,FitNation,West,YouTube Ads,13812.61,2,4
+O1537,2024-02-22,C337,Home Decor,HomeEssence,South,Instagram,38995.77,2,4
+O1538,2024-06-08,C290,Home Decor,DecoHub,North,Facebook,44601.78,3,8
+O1539,2024-04-06,C280,Home Decor,DecoHub,North,Facebook,18038.11,3,6
+O1540,2024-06-18,C537,Electronics,ElectroWorld,East,Email,5930.26,2,3
+O1541,2024-05-22,C138,Electronics,SmartBuy,South,YouTube Ads,28569.99,2,7
+O1542,2024-02-13,C452,Home Decor,DecoHub,East,Facebook,18742.85,1,4
+O1543,2024-05-27,C195,Home Decor,HomeEssence,West,Instagram,35298.06,1,10
+O1544,2024-01-29,C345,Beauty,GlowStore,South,YouTube Ads,20976.76,3,6
+O1545,2024-01-02,C577,Electronics,ElectroWorld,North,Google Ads,5616.72,2,3
+O1546,2024-03-15,C267,Beauty,BeautyCart,East,Google Ads,38777.34,2,2
+O1547,2024-06-20,C165,Fashion,StyleHub,East,Facebook,41883.37,1,7
+O1548,2024-03-27,C325,Fashion,UrbanLook,East,Facebook,23229.61,2,3
+O1549,2024-03-14,C368,Beauty,BeautyCart,West,Email,28972.2,2,9
+O1550,2024-02-23,C417,Fashion,UrbanLook,West,Email,7913.52,2,2
+O1551,2024-04-15,C593,Home Decor,DecoHub,South,YouTube Ads,43484.13,3,7
+O1552,2024-03-12,C462,Electronics,ElectroWorld,North,Facebook,33205.6,1,4
+O1553,2024-01-26,C506,Sports,ProGear,West,Email,10699.77,1,2
+O1554,2024-01-13,C554,Fashion,TrendWear,East,Email,20700.64,3,6
+O1555,2024-02-01,C291,Beauty,BeautyCart,South,Facebook,27535.57,3,7
+O1556,2024-04-16,C420,Home Decor,HomeEssence,West,Google Ads,48473.58,1,4
+O1557,2024-04-11,C501,Beauty,GlowStore,South,Facebook,16375.83,1,9
+O1558,2024-01-12,C400,Sports,ProGear,South,Email,31346.61,3,6
+O1559,2024-05-11,C139,Electronics,SmartBuy,South,Email,38231.61,1,7
+O1560,2024-06-19,C193,Sports,ProGear,West,Google Ads,45919.95,2,4
+O1561,2024-05-31,C429,Electronics,TechZone,East,YouTube Ads,32033.74,1,8
+O1562,2024-01-13,C168,Fashion,StyleHub,East,Email,22259.22,1,8
+O1563,2024-03-10,C291,Electronics,ElectroWorld,South,Email,21137.63,1,6
+O1564,2024-01-15,C390,Home Decor,HomeEssence,South,Email,40925.95,1,8
+O1565,2024-01-28,C447,Electronics,TechZone,North,Google Ads,11041.65,3,7
+O1566,2024-02-02,C427,Sports,FitNation,South,Email,22556.84,1,6
+O1567,2024-02-27,C163,Electronics,TechZone,South,Email,31894.55,3,8
+O1568,2024-04-14,C554,Beauty,BeautyCart,West,Facebook,3355.1,1,2
+O1569,2024-04-15,C189,Home Decor,HomeEssence,North,YouTube Ads,47300.5,3,10
+O1570,2024-04-17,C421,Home Decor,HomeEssence,East,Facebook,39759.29,3,6
+O1571,2024-02-22,C372,Fashion,StyleHub,North,Google Ads,18764.75,3,2
+O1572,2024-03-14,C138,Fashion,StyleHub,West,Instagram,23661.75,1,7
+O1573,2024-05-09,C369,Electronics,ElectroWorld,West,Facebook,2018.51,3,7
+O1574,2024-06-16,C432,Beauty,BeautyCart,North,Instagram,25136.99,3,5
+O1575,2024-06-26,C301,Fashion,TrendWear,East,Facebook,12642.85,3,3
+O1576,2024-02-18,C363,Beauty,GlowStore,West,Email,33551.84,3,7
+O1577,2024-06-11,C186,Electronics,ElectroWorld,East,Google Ads,47864.28,3,6
+O1578,2024-04-26,C492,Fashion,TrendWear,West,YouTube Ads,40609.18,3,4
+O1579,2024-02-04,C388,Sports,FitNation,North,Google Ads,19942.3,3,2
+O1580,2024-02-22,C316,Electronics,ElectroWorld,South,Email,16333.1,1,7
+O1581,2024-01-10,C427,Fashion,StyleHub,West,YouTube Ads,11209.38,3,7
+O1582,2024-04-28,C571,Electronics,ElectroWorld,South,Google Ads,43711.35,1,6
+O1583,2024-03-21,C346,Beauty,BeautyCart,West,Google Ads,35241.02,1,9
+O1584,2024-04-18,C313,Home Decor,DecoHub,North,Instagram,16437.44,3,2
+O1585,2024-03-15,C567,Fashion,UrbanLook,North,Email,14681.09,1,9
+O1586,2024-06-18,C325,Fashion,StyleHub,North,Instagram,25315.51,2,2
+O1587,2024-05-18,C210,Beauty,BeautyCart,East,Google Ads,17603.95,2,3
+O1588,2024-06-18,C222,Sports,FitNation,North,Google Ads,11884.9,1,6
+O1589,2024-04-27,C138,Beauty,BeautyCart,West,Google Ads,35120.79,2,2
+O1590,2024-03-01,C554,Beauty,GlowStore,North,Email,11406.77,3,2
+O1591,2024-01-13,C278,Home Decor,DecoHub,East,Facebook,11270.18,1,5
+O1592,2024-01-16,C261,Home Decor,DecoHub,North,Email,6012.23,1,4
+O1593,2024-06-17,C514,Beauty,GlowStore,South,Facebook,32707.55,3,4
+O1594,2024-03-28,C259,Home Decor,HomeEssence,West,YouTube Ads,4742.57,2,3
+O1595,2024-03-26,C217,Home Decor,HomeEssence,West,Instagram,13236.2,3,10
+O1596,2024-03-12,C227,Home Decor,HomeEssence,North,Instagram,8439.76,2,10
+O1597,2024-02-22,C350,Home Decor,HomeEssence,West,Email,23969.56,1,7
+O1598,2024-02-16,C534,Fashion,UrbanLook,South,Google Ads,8851.53,3,9
+O1599,2024-04-26,C284,Sports,ProGear,West,Facebook,19210.18,3,6
+O1600,2024-02-18,C581,Sports,FitNation,West,Facebook,43965.89,2,2
+O1601,2024-04-08,C254,Home Decor,DecoHub,East,Email,47216.82,3,5
+O1602,2024-03-07,C237,Electronics,SmartBuy,West,Email,43845.62,1,5
+O1603,2024-01-29,C118,Sports,FitNation,North,Instagram,31256.5,1,7
+O1604,2024-01-10,C116,Beauty,GlowStore,North,Instagram,47215.54,2,10
+O1605,2024-03-25,C118,Fashion,StyleHub,North,Facebook,24037.25,1,5
+O1606,2024-01-23,C535,Sports,ProGear,South,YouTube Ads,3222.9,2,10
+O1607,2024-05-10,C227,Sports,ProGear,South,Google Ads,7534.79,1,2
+O1608,2024-02-15,C478,Beauty,GlowStore,East,YouTube Ads,27448.16,2,10
+O1609,2024-01-02,C281,Electronics,SmartBuy,East,Facebook,13712.15,3,10
+O1610,2024-02-27,C549,Sports,ProGear,East,Email,19546.23,3,6
+O1611,2024-04-27,C363,Home Decor,DecoHub,East,Google Ads,39845.89,1,8
+O1612,2024-05-17,C105,Sports,FitNation,North,YouTube Ads,8068.55,1,3
+O1613,2024-05-03,C288,Sports,FitNation,North,Instagram,36681.86,1,7
+O1614,2024-06-07,C397,Electronics,ElectroWorld,South,Facebook,24525.23,2,7
+O1615,2024-02-18,C231,Fashion,StyleHub,North,Facebook,20896.69,3,3
+O1616,2024-02-01,C483,Sports,ProGear,South,Instagram,30434.4,2,3
+O1617,2024-05-02,C373,Home Decor,HomeEssence,North,Email,3257.1,3,5
+O1618,2024-04-25,C251,Electronics,TechZone,South,Facebook,45311.34,2,8
+O1619,2024-02-01,C458,Home Decor,HomeEssence,North,Email,41984.55,3,3
+O1620,2024-06-22,C140,Electronics,ElectroWorld,South,Instagram,7452.54,3,9
+O1621,2024-03-08,C526,Home Decor,HomeEssence,South,Google Ads,19118.02,1,3
+O1622,2024-06-23,C587,Electronics,ElectroWorld,West,Facebook,44106.14,3,6
+O1623,2024-06-12,C581,Electronics,SmartBuy,West,Email,36108.11,3,9
+O1624,2024-02-16,C554,Home Decor,DecoHub,West,Instagram,36400.6,1,3
+O1625,2024-04-27,C381,Sports,ProGear,East,Instagram,35708.94,2,7
+O1626,2024-06-14,C554,Fashion,StyleHub,East,Facebook,31274.63,1,6
+O1627,2024-06-03,C472,Beauty,GlowStore,South,Email,18309.47,2,7
+O1628,2024-03-29,C477,Fashion,TrendWear,West,YouTube Ads,18386.92,1,3
+O1629,2024-04-01,C207,Home Decor,HomeEssence,West,Instagram,15348.24,1,10
+O1630,2024-04-02,C152,Fashion,UrbanLook,South,Facebook,29446.81,2,4
+O1631,2024-06-16,C456,Sports,ProGear,North,Facebook,27788.41,1,3
+O1632,2024-04-24,C347,Sports,FitNation,South,Instagram,1835.63,3,6
+O1633,2024-05-03,C560,Fashion,TrendWear,North,Google Ads,8746.61,1,6
+O1634,2024-01-31,C418,Beauty,BeautyCart,West,Facebook,32677.13,2,2
+O1635,2024-04-29,C322,Sports,FitNation,North,YouTube Ads,10440.6,2,2
+O1636,2024-04-16,C317,Fashion,UrbanLook,West,Email,31381.91,2,9
+O1637,2024-04-18,C218,Beauty,BeautyCart,South,Instagram,7997.7,3,4
+O1638,2024-05-16,C281,Fashion,UrbanLook,East,Email,38812.74,1,8
+O1639,2024-03-20,C282,Fashion,TrendWear,South,Email,29067.62,2,6
+O1640,2024-01-12,C311,Sports,FitNation,West,Google Ads,40265.26,3,8
+O1641,2024-04-23,C503,Electronics,SmartBuy,East,Instagram,32554.32,2,5
+O1642,2024-05-01,C539,Sports,ProGear,South,Instagram,29575.22,3,7
+O1643,2024-05-31,C518,Electronics,SmartBuy,South,Google Ads,13228.49,1,4
+O1644,2024-01-01,C527,Sports,FitNation,North,Email,35468.38,1,5
+O1645,2024-03-01,C176,Beauty,GlowStore,South,Email,10819.25,2,9
+O1646,2024-05-24,C418,Fashion,TrendWear,West,Instagram,28590.53,2,7
+O1647,2024-02-24,C250,Home Decor,DecoHub,South,Google Ads,46102.57,3,8
+O1648,2024-01-03,C573,Beauty,GlowStore,West,Google Ads,37438.68,2,5
+O1649,2024-05-23,C483,Beauty,GlowStore,South,Email,9995.61,1,5
+O1650,2024-04-09,C133,Home Decor,HomeEssence,North,Instagram,41061.59,2,2
+O1651,2024-04-15,C161,Beauty,GlowStore,West,Facebook,31274.85,2,8
+O1652,2024-04-24,C509,Home Decor,DecoHub,East,Email,20556.07,2,3
+O1653,2024-01-11,C499,Fashion,StyleHub,North,YouTube Ads,26141.77,2,3
+O1654,2024-03-29,C273,Electronics,TechZone,South,Google Ads,30985.07,2,3
+O1655,2024-01-10,C367,Fashion,StyleHub,South,Email,47588.58,1,2
+O1656,2024-02-13,C545,Sports,FitNation,South,YouTube Ads,4130.51,3,2
+O1657,2024-05-08,C520,Sports,ProGear,East,Google Ads,45854.81,2,6
+O1658,2024-02-06,C482,Fashion,StyleHub,North,Facebook,35842.32,3,8
+O1659,2024-05-24,C381,Beauty,GlowStore,South,Email,20014.53,2,9
+O1660,2024-05-17,C141,Fashion,UrbanLook,North,Google Ads,32455.02,2,10
+O1661,2024-01-10,C409,Fashion,UrbanLook,North,Email,12569.36,1,10
+O1662,2024-05-29,C462,Fashion,StyleHub,North,Email,16151.56,3,8
+O1663,2024-02-18,C258,Home Decor,DecoHub,North,Google Ads,19814.1,3,2
+O1664,2024-02-04,C376,Electronics,SmartBuy,North,Instagram,20852.32,3,2
+O1665,2024-01-23,C452,Home Decor,HomeEssence,South,Google Ads,25971.89,3,2
+O1666,2024-01-31,C423,Electronics,SmartBuy,South,Email,34599.31,1,4
+O1667,2024-03-16,C125,Beauty,GlowStore,East,Google Ads,39326.05,2,8
+O1668,2024-04-08,C551,Beauty,GlowStore,East,Google Ads,6001.71,2,5
+O1669,2024-06-23,C476,Beauty,BeautyCart,East,Instagram,35711.07,2,3
+O1670,2024-06-04,C221,Home Decor,DecoHub,North,Google Ads,15056.97,3,9
+O1671,2024-06-24,C576,Home Decor,HomeEssence,West,Email,23958.97,3,4
+O1672,2024-02-01,C472,Electronics,TechZone,North,YouTube Ads,30536.48,3,4
+O1673,2024-03-01,C116,Electronics,TechZone,North,Google Ads,25937.96,3,3
+O1674,2024-04-10,C283,Sports,FitNation,East,Facebook,25964.6,3,8
+O1675,2024-04-27,C448,Home Decor,DecoHub,South,Email,15666.37,2,10
+O1676,2024-01-16,C499,Beauty,GlowStore,East,Instagram,2405.9,3,5
+O1677,2024-06-19,C264,Beauty,GlowStore,East,Google Ads,41292.29,1,5
+O1678,2024-04-13,C494,Sports,ProGear,North,YouTube Ads,16858.85,2,3
+O1679,2024-02-29,C533,Beauty,BeautyCart,South,Instagram,36701.84,3,5
+O1680,2024-05-22,C243,Home Decor,DecoHub,West,Email,12551.97,2,6
+O1681,2024-05-02,C244,Sports,ProGear,North,Email,25775.32,2,2
+O1682,2024-01-24,C559,Beauty,BeautyCart,North,Facebook,35832.59,2,2
+O1683,2024-03-29,C401,Home Decor,HomeEssence,North,Email,13721.2,3,6
+O1684,2024-04-05,C470,Home Decor,DecoHub,North,Google Ads,39884.38,1,4
+O1685,2024-03-12,C105,Electronics,TechZone,West,Facebook,3867.66,3,9
+O1686,2024-01-13,C152,Sports,ProGear,East,Google Ads,18156.36,3,3
+O1687,2024-06-27,C511,Electronics,SmartBuy,East,Instagram,939.66,2,4
+O1688,2024-04-01,C377,Home Decor,HomeEssence,West,Instagram,48417.9,3,5
+O1689,2024-05-17,C200,Beauty,BeautyCart,South,Google Ads,1032.01,1,5
+O1690,2024-05-25,C332,Electronics,ElectroWorld,North,Google Ads,36086.03,1,5
+O1691,2024-05-16,C551,Electronics,TechZone,North,YouTube Ads,40574.46,3,3
+O1692,2024-05-02,C163,Beauty,GlowStore,West,Google Ads,49947.28,2,6
+O1693,2024-04-30,C408,Home Decor,DecoHub,West,Instagram,4202.64,2,2
+O1694,2024-01-01,C106,Sports,ProGear,South,Google Ads,31296.37,1,9
+O1695,2024-05-11,C391,Home Decor,HomeEssence,West,Google Ads,8866.68,2,9
+O1696,2024-05-19,C165,Beauty,BeautyCart,North,Google Ads,45639.64,2,4
+O1697,2024-06-29,C295,Electronics,TechZone,North,YouTube Ads,39819.74,3,5
+O1698,2024-01-27,C137,Beauty,GlowStore,North,Email,24209.21,2,8
+O1699,2024-05-02,C195,Electronics,TechZone,North,Facebook,19616.05,1,6
+O1700,2024-05-26,C509,Sports,ProGear,South,Google Ads,31891.71,2,9
+O1701,2024-06-24,C431,Fashion,UrbanLook,West,Email,10247.1,2,9
+O1702,2024-02-03,C113,Electronics,SmartBuy,North,Google Ads,20720.21,2,10
+O1703,2024-05-20,C457,Home Decor,HomeEssence,North,Instagram,4389.98,1,9
+O1704,2024-01-28,C356,Sports,ProGear,North,Email,36599.44,1,5
+O1705,2024-02-28,C439,Electronics,TechZone,North,Email,38288.78,3,9
+O1706,2024-01-12,C390,Home Decor,DecoHub,West,Google Ads,19732.94,2,10
+O1707,2024-05-16,C583,Electronics,SmartBuy,West,Email,30292.88,1,8
+O1708,2024-05-27,C311,Fashion,StyleHub,East,Google Ads,7451.55,3,6
+O1709,2024-01-23,C519,Sports,ProGear,West,Instagram,22281.3,1,5
+O1710,2024-04-09,C583,Fashion,UrbanLook,North,Google Ads,3706.87,1,4
+O1711,2024-05-11,C494,Beauty,BeautyCart,West,Instagram,48902.9,1,6
+O1712,2024-03-05,C398,Home Decor,DecoHub,East,YouTube Ads,21526.92,3,3
+O1713,2024-04-15,C399,Sports,FitNation,East,Google Ads,9417.41,2,8
+O1714,2024-03-21,C513,Electronics,ElectroWorld,West,Instagram,3354.31,3,2
+O1715,2024-04-25,C375,Beauty,BeautyCart,East,Facebook,41204.16,2,7
+O1716,2024-05-14,C153,Beauty,GlowStore,West,YouTube Ads,31334.62,3,5
+O1717,2024-05-17,C313,Home Decor,HomeEssence,North,Google Ads,15186.31,3,3
+O1718,2024-06-15,C244,Electronics,SmartBuy,West,Email,26813.28,3,10
+O1719,2024-02-08,C369,Electronics,ElectroWorld,North,Instagram,25664.72,2,3
+O1720,2024-03-24,C233,Beauty,BeautyCart,South,Facebook,17287.14,1,7
+O1721,2024-05-11,C319,Sports,ProGear,West,Facebook,44057.14,1,4
+O1722,2024-04-12,C571,Beauty,GlowStore,North,Email,4019.95,2,5
+O1723,2024-06-10,C177,Sports,FitNation,South,Email,19181.81,2,10
+O1724,2024-06-16,C500,Fashion,TrendWear,East,Instagram,31704.15,2,10
+O1725,2024-04-18,C376,Home Decor,DecoHub,North,YouTube Ads,16305.58,3,7
+O1726,2024-04-09,C435,Beauty,GlowStore,South,Facebook,8856.53,3,3
+O1727,2024-05-09,C397,Fashion,StyleHub,East,Google Ads,47235.19,2,7
+O1728,2024-03-01,C271,Fashion,UrbanLook,North,Instagram,18877.1,1,8
+O1729,2024-05-03,C372,Beauty,BeautyCart,East,Google Ads,15682.67,1,5
+O1730,2024-02-23,C398,Electronics,TechZone,South,YouTube Ads,9957.65,3,7
+O1731,2024-02-11,C332,Electronics,TechZone,North,YouTube Ads,18609.97,1,4
+O1732,2024-05-06,C454,Sports,FitNation,North,YouTube Ads,5907.34,2,9
+O1733,2024-05-15,C497,Beauty,BeautyCart,North,Google Ads,48513.81,1,3
+O1734,2024-04-09,C288,Home Decor,DecoHub,East,Facebook,2801.97,2,2
+O1735,2024-03-26,C462,Beauty,GlowStore,East,YouTube Ads,19078.41,3,5
+O1736,2024-03-06,C484,Fashion,StyleHub,West,Facebook,11526.82,2,2
+O1737,2024-02-12,C182,Sports,FitNation,East,Instagram,30534.03,2,6
+O1738,2024-06-05,C298,Beauty,BeautyCart,South,Instagram,18473.29,3,5
+O1739,2024-06-27,C363,Fashion,StyleHub,East,Instagram,11362.39,3,8
+O1740,2024-01-17,C552,Fashion,UrbanLook,North,Facebook,5013.71,3,7
+O1741,2024-04-09,C561,Beauty,BeautyCart,East,Instagram,27311.86,2,10
+O1742,2024-02-28,C559,Beauty,BeautyCart,East,Email,11606.96,1,9
+O1743,2024-05-16,C272,Fashion,StyleHub,North,Google Ads,37832.02,2,9
+O1744,2024-01-30,C135,Electronics,TechZone,North,Facebook,42928.73,1,8
+O1745,2024-03-31,C467,Fashion,TrendWear,East,Facebook,11618.45,3,8
+O1746,2024-02-17,C524,Beauty,BeautyCart,West,Instagram,40378.78,1,9
+O1747,2024-03-05,C241,Home Decor,DecoHub,West,Google Ads,21812.7,2,6
+O1748,2024-05-09,C504,Sports,FitNation,West,Google Ads,23055.36,3,6
+O1749,2024-05-16,C453,Beauty,BeautyCart,East,Facebook,2623.03,3,9
+O1750,2024-06-14,C378,Sports,ProGear,East,Email,6372.5,1,8
+O1751,2024-01-24,C598,Beauty,GlowStore,West,Instagram,35989.44,1,9
+O1752,2024-02-10,C200,Fashion,StyleHub,South,YouTube Ads,38715.42,2,10
+O1753,2024-01-29,C279,Sports,ProGear,East,Google Ads,20196.06,3,6
+O1754,2024-03-18,C209,Home Decor,DecoHub,South,Instagram,30947.37,2,8
+O1755,2024-04-17,C257,Home Decor,HomeEssence,East,Instagram,29627.9,1,10
+O1756,2024-04-07,C583,Fashion,StyleHub,South,Email,8099.43,1,6
+O1757,2024-04-12,C192,Fashion,StyleHub,South,Google Ads,26655.82,1,10
+O1758,2024-04-21,C233,Sports,FitNation,East,YouTube Ads,9925.56,3,7
+O1759,2024-01-22,C568,Sports,FitNation,East,Facebook,3258.75,3,8
+O1760,2024-02-13,C519,Home Decor,HomeEssence,East,Instagram,36599.96,1,5
+O1761,2024-04-28,C506,Home Decor,DecoHub,South,YouTube Ads,13203.12,3,5
+O1762,2024-02-18,C194,Fashion,TrendWear,East,Facebook,5110.18,3,9
+O1763,2024-04-20,C304,Beauty,GlowStore,East,Google Ads,31223.59,3,10
+O1764,2024-05-10,C573,Sports,FitNation,East,Instagram,4137.77,2,2
+O1765,2024-05-09,C482,Sports,FitNation,South,Google Ads,29662.2,2,6
+O1766,2024-02-20,C295,Sports,FitNation,South,YouTube Ads,666.18,1,3
+O1767,2024-03-13,C371,Beauty,BeautyCart,East,Facebook,18383.6,2,5
+O1768,2024-05-11,C399,Fashion,UrbanLook,West,Email,26077.03,2,2
+O1769,2024-04-18,C346,Fashion,StyleHub,North,Google Ads,11159.13,3,4
+O1770,2024-05-08,C383,Sports,FitNation,South,Facebook,48356.1,1,9
+O1771,2024-02-10,C249,Home Decor,DecoHub,South,Google Ads,13367.94,2,6
+O1772,2024-03-07,C201,Beauty,GlowStore,West,YouTube Ads,27486.52,1,5
+O1773,2024-03-06,C314,Sports,ProGear,West,Facebook,36323.26,1,3
+O1774,2024-03-12,C580,Home Decor,HomeEssence,South,Instagram,21713.92,2,2
+O1775,2024-01-23,C239,Electronics,TechZone,East,Email,31840.87,3,7
+O1776,2024-06-29,C431,Fashion,TrendWear,West,YouTube Ads,34885.05,1,6
+O1777,2024-05-15,C217,Beauty,GlowStore,South,YouTube Ads,17182.08,2,3
+O1778,2024-01-28,C459,Electronics,TechZone,South,Facebook,35247.77,3,2
+O1779,2024-06-05,C444,Fashion,StyleHub,South,YouTube Ads,29023.63,3,6
+O1780,2024-06-26,C227,Beauty,GlowStore,East,Facebook,38042.37,2,3
+O1781,2024-06-13,C266,Electronics,SmartBuy,South,Google Ads,22229.33,3,8
+O1782,2024-03-11,C169,Beauty,GlowStore,East,Facebook,19830.01,2,8
+O1783,2024-05-25,C286,Fashion,UrbanLook,South,Facebook,14400.44,3,4
+O1784,2024-02-10,C454,Fashion,StyleHub,North,Email,39785.57,2,8
+O1785,2024-02-21,C510,Electronics,TechZone,East,Facebook,43114.98,1,7
+O1786,2024-06-01,C465,Electronics,TechZone,South,Email,3203.39,2,5
+O1787,2024-01-08,C395,Electronics,TechZone,East,Google Ads,1164.47,1,2
+O1788,2024-06-06,C330,Fashion,StyleHub,South,Google Ads,36664.44,3,6
+O1789,2024-05-17,C172,Electronics,TechZone,South,YouTube Ads,22717.44,1,8
+O1790,2024-02-24,C155,Sports,ProGear,West,Facebook,5347.88,2,2
+O1791,2024-06-06,C247,Sports,ProGear,West,YouTube Ads,18425.42,1,7
+O1792,2024-02-01,C467,Home Decor,HomeEssence,North,Instagram,19194.77,1,2
+O1793,2024-02-16,C537,Fashion,TrendWear,West,Google Ads,46669.77,3,2
+O1794,2024-05-25,C333,Electronics,ElectroWorld,West,Instagram,30463.52,1,9
+O1795,2024-04-03,C309,Home Decor,HomeEssence,East,Email,22496.23,3,6
+O1796,2024-04-11,C358,Fashion,TrendWear,East,Facebook,18563.62,3,2
+O1797,2024-03-07,C314,Fashion,UrbanLook,West,Google Ads,46357.82,1,9
+O1798,2024-05-30,C367,Beauty,BeautyCart,North,YouTube Ads,34205.15,1,3
+O1799,2024-01-26,C389,Home Decor,DecoHub,North,Instagram,14299.69,2,2
+O1800,2024-01-01,C590,Electronics,TechZone,South,Email,49757.34,3,7
+O1801,2024-03-24,C115,Sports,FitNation,East,Instagram,22724.16,1,7
+O1802,2024-03-09,C600,Electronics,ElectroWorld,West,Instagram,21177.53,3,4
+O1803,2024-05-08,C312,Sports,ProGear,North,Email,2693.32,1,6
+O1804,2024-03-24,C104,Home Decor,DecoHub,East,Google Ads,22274.02,1,6
+O1805,2024-03-26,C280,Fashion,UrbanLook,East,Instagram,39990.82,3,5
+O1806,2024-05-08,C133,Sports,ProGear,East,Facebook,12495.37,2,7
+O1807,2024-03-03,C443,Fashion,TrendWear,South,Email,12502.25,1,3
+O1808,2024-05-09,C152,Home Decor,HomeEssence,North,Google Ads,25588.59,2,9
+O1809,2024-05-26,C409,Electronics,SmartBuy,South,Google Ads,9195.76,2,10
+O1810,2024-03-18,C494,Electronics,ElectroWorld,North,YouTube Ads,33564.01,1,5
+O1811,2024-01-29,C503,Electronics,ElectroWorld,North,YouTube Ads,16889.29,1,6
+O1812,2024-06-01,C281,Electronics,SmartBuy,East,Google Ads,16042.75,2,2
+O1813,2024-04-15,C544,Fashion,TrendWear,South,Email,30871.49,3,3
+O1814,2024-04-22,C412,Electronics,SmartBuy,East,Facebook,3003.29,1,7
+O1815,2024-02-12,C482,Home Decor,HomeEssence,North,Email,5995.99,2,6
+O1816,2024-05-07,C253,Beauty,BeautyCart,North,Instagram,26682.06,2,6
+O1817,2024-01-08,C431,Home Decor,HomeEssence,North,Facebook,10025.27,3,8
+O1818,2024-05-08,C577,Electronics,TechZone,West,Email,11321.99,2,6
+O1819,2024-03-22,C437,Fashion,UrbanLook,East,Instagram,13614.92,2,5
+O1820,2024-05-21,C119,Beauty,BeautyCart,West,YouTube Ads,21773.82,1,7
+O1821,2024-05-07,C107,Sports,ProGear,North,Instagram,28099.06,1,6
+O1822,2024-05-03,C293,Electronics,TechZone,North,YouTube Ads,13895.22,3,5
+O1823,2024-03-01,C509,Beauty,GlowStore,North,YouTube Ads,2967.68,3,10
+O1824,2024-02-21,C337,Fashion,TrendWear,South,YouTube Ads,31121.13,2,4
+O1825,2024-03-31,C128,Beauty,BeautyCart,West,YouTube Ads,30872.76,1,4
+O1826,2024-03-31,C310,Sports,ProGear,East,Facebook,30482.8,3,9
+O1827,2024-04-20,C538,Electronics,ElectroWorld,West,Email,28223.7,3,3
+O1828,2024-01-04,C512,Sports,FitNation,West,YouTube Ads,32408.61,1,9
+O1829,2024-03-11,C528,Fashion,UrbanLook,South,Email,17173.49,3,4
+O1830,2024-05-02,C257,Sports,ProGear,South,YouTube Ads,14314.69,2,7
+O1831,2024-01-12,C463,Electronics,TechZone,East,YouTube Ads,25771.75,3,9
+O1832,2024-01-26,C352,Electronics,ElectroWorld,North,Google Ads,21495.47,2,5
+O1833,2024-04-23,C224,Fashion,StyleHub,East,Email,27444.7,1,4
+O1834,2024-04-14,C244,Electronics,SmartBuy,North,Google Ads,16214.91,1,7
+O1835,2024-03-11,C470,Beauty,BeautyCart,East,Google Ads,42005.37,1,5
+O1836,2024-01-22,C410,Fashion,StyleHub,East,Email,2127.72,1,3
+O1837,2024-04-05,C477,Beauty,BeautyCart,South,Email,8832.17,3,7
+O1838,2024-05-31,C561,Beauty,GlowStore,West,Google Ads,920.4,3,3
+O1839,2024-05-22,C460,Beauty,BeautyCart,South,Email,33685.32,2,8
+O1840,2024-01-02,C256,Home Decor,DecoHub,North,Email,20367.77,3,8
+O1841,2024-02-15,C440,Home Decor,HomeEssence,North,Facebook,6115.43,1,9
+O1842,2024-01-13,C549,Home Decor,HomeEssence,South,Instagram,35879.58,1,9
+O1843,2024-03-18,C476,Beauty,BeautyCart,West,Instagram,6948.1,2,6
+O1844,2024-06-03,C449,Sports,ProGear,North,Instagram,40164.21,3,3
+O1845,2024-02-16,C103,Electronics,ElectroWorld,East,Google Ads,23121.77,1,2
+O1846,2024-04-27,C357,Beauty,BeautyCart,North,Google Ads,5001.15,3,3
+O1847,2024-04-26,C215,Beauty,GlowStore,South,Instagram,46022.28,1,6
+O1848,2024-05-06,C583,Home Decor,HomeEssence,East,Instagram,43224.57,3,3
+O1849,2024-03-07,C442,Home Decor,HomeEssence,West,Email,2290.02,3,10
+O1850,2024-03-31,C316,Fashion,TrendWear,North,Instagram,19285.84,3,8
+O1851,2024-02-23,C244,Home Decor,HomeEssence,North,Instagram,40853.92,2,6
+O1852,2024-01-30,C468,Home Decor,HomeEssence,North,Instagram,25489.18,2,9
+O1853,2024-06-15,C512,Home Decor,HomeEssence,North,Google Ads,39965.24,1,3
+O1854,2024-04-03,C493,Home Decor,HomeEssence,South,YouTube Ads,34875.75,2,8
+O1855,2024-05-16,C154,Fashion,StyleHub,West,Facebook,13209.47,1,8
+O1856,2024-02-17,C589,Fashion,TrendWear,North,Email,41624.8,1,5
+O1857,2024-05-08,C540,Beauty,BeautyCart,South,YouTube Ads,29066.19,2,3
+O1858,2024-05-14,C358,Home Decor,DecoHub,South,Email,31638.43,3,8
+O1859,2024-01-19,C350,Home Decor,HomeEssence,East,Instagram,8175.54,1,7
+O1860,2024-02-08,C101,Sports,ProGear,North,Facebook,8084.31,2,4
+O1861,2024-06-20,C396,Electronics,ElectroWorld,North,Email,22356.02,1,6
+O1862,2024-06-22,C269,Beauty,BeautyCart,West,YouTube Ads,34563.92,1,4
+O1863,2024-01-31,C437,Sports,FitNation,South,YouTube Ads,12160.0,3,3
+O1864,2024-04-26,C313,Sports,FitNation,East,YouTube Ads,5452.24,2,10
+O1865,2024-04-22,C467,Fashion,StyleHub,North,Facebook,45630.89,2,10
+O1866,2024-01-02,C217,Beauty,GlowStore,South,Google Ads,23156.3,3,3
+O1867,2024-01-02,C496,Sports,FitNation,East,Facebook,15088.83,1,10
+O1868,2024-05-19,C331,Electronics,ElectroWorld,West,YouTube Ads,17107.51,3,4
+O1869,2024-02-20,C533,Fashion,UrbanLook,East,Instagram,12626.06,2,9
+O1870,2024-02-22,C241,Sports,ProGear,South,Instagram,19864.04,3,9
+O1871,2024-02-17,C308,Home Decor,DecoHub,East,Facebook,29656.42,2,8
+O1872,2024-02-12,C243,Sports,FitNation,South,YouTube Ads,43646.04,1,6
+O1873,2024-03-25,C323,Home Decor,HomeEssence,South,Google Ads,34527.23,1,7
+O1874,2024-03-28,C147,Electronics,SmartBuy,North,YouTube Ads,23067.0,2,6
+O1875,2024-05-10,C493,Electronics,SmartBuy,South,Email,17975.34,2,9
+O1876,2024-02-24,C382,Fashion,TrendWear,North,Google Ads,5840.54,1,4
+O1877,2024-03-07,C407,Sports,FitNation,North,Instagram,37115.88,3,10
+O1878,2024-03-17,C430,Electronics,TechZone,West,Google Ads,838.96,3,5
+O1879,2024-06-06,C543,Sports,ProGear,West,YouTube Ads,45375.22,3,2
+O1880,2024-03-27,C364,Electronics,ElectroWorld,East,YouTube Ads,27113.51,3,7
+O1881,2024-02-14,C103,Beauty,BeautyCart,North,Facebook,17532.45,1,6
+O1882,2024-04-16,C373,Fashion,UrbanLook,South,Facebook,11374.96,1,3
+O1883,2024-01-06,C362,Home Decor,HomeEssence,West,Facebook,10424.42,2,8
+O1884,2024-06-29,C124,Sports,ProGear,West,Email,22812.83,3,4
+O1885,2024-05-05,C204,Beauty,BeautyCart,East,Facebook,8179.33,3,10
+O1886,2024-05-08,C243,Home Decor,DecoHub,West,Instagram,25119.75,2,10
+O1887,2024-02-11,C109,Home Decor,HomeEssence,North,Instagram,6983.41,1,5
+O1888,2024-06-11,C376,Sports,FitNation,North,Facebook,17388.85,2,2
+O1889,2024-06-12,C583,Fashion,TrendWear,East,Email,5603.88,1,7
+O1890,2024-06-04,C301,Electronics,SmartBuy,South,Email,46456.48,1,10
+O1891,2024-02-08,C188,Fashion,StyleHub,South,Email,12007.15,2,8
+O1892,2024-01-01,C110,Electronics,ElectroWorld,West,YouTube Ads,22028.24,3,3
+O1893,2024-04-30,C435,Fashion,StyleHub,South,Email,32010.05,3,10
+O1894,2024-05-12,C105,Electronics,TechZone,North,Instagram,6389.92,1,10
+O1895,2024-04-07,C283,Electronics,TechZone,East,Facebook,45223.05,3,2
+O1896,2024-06-20,C174,Sports,ProGear,South,YouTube Ads,49247.02,1,6
+O1897,2024-05-31,C285,Sports,FitNation,East,Google Ads,21687.12,2,6
+O1898,2024-03-30,C115,Beauty,GlowStore,East,Instagram,19329.39,2,6
+O1899,2024-01-25,C467,Fashion,UrbanLook,North,Instagram,16411.72,2,4
+O1900,2024-02-13,C179,Electronics,SmartBuy,North,Instagram,45835.25,3,5
+O1901,2024-05-09,C480,Sports,ProGear,West,Facebook,19937.65,3,7
+O1902,2024-06-27,C385,Home Decor,HomeEssence,North,Instagram,43032.5,2,4
+O1903,2024-03-10,C136,Beauty,GlowStore,North,Google Ads,35802.82,3,4
+O1904,2024-03-05,C305,Fashion,StyleHub,North,Instagram,44235.49,1,3
+O1905,2024-03-02,C426,Sports,ProGear,North,Facebook,42854.02,2,3
+O1906,2024-02-24,C122,Home Decor,DecoHub,South,Email,22935.59,2,2
+O1907,2024-01-26,C489,Fashion,StyleHub,East,YouTube Ads,27792.25,1,4
+O1908,2024-04-27,C158,Sports,FitNation,South,Google Ads,11190.26,3,10
+O1909,2024-01-09,C379,Fashion,UrbanLook,South,Google Ads,40676.0,3,4
+O1910,2024-06-08,C231,Home Decor,HomeEssence,East,Email,6588.07,1,7
+O1911,2024-03-16,C484,Electronics,TechZone,North,Email,26799.66,1,7
+O1912,2024-05-28,C118,Fashion,StyleHub,West,YouTube Ads,27306.39,3,6
+O1913,2024-03-09,C317,Electronics,ElectroWorld,North,Instagram,28901.82,1,5
+O1914,2024-04-18,C541,Beauty,GlowStore,West,Google Ads,10195.26,1,8
+O1915,2024-02-20,C389,Electronics,ElectroWorld,West,Email,1420.68,2,7
+O1916,2024-06-09,C276,Home Decor,DecoHub,North,Email,5441.69,2,2
+O1917,2024-03-22,C410,Fashion,TrendWear,South,Facebook,34545.38,3,7
+O1918,2024-01-15,C376,Beauty,GlowStore,East,Facebook,49139.67,1,4
+O1919,2024-01-13,C130,Fashion,UrbanLook,North,Email,38997.33,1,5
+O1920,2024-02-10,C175,Sports,FitNation,South,Google Ads,19476.31,3,5
+O1921,2024-02-03,C376,Home Decor,DecoHub,East,Google Ads,35107.26,3,2
+O1922,2024-01-11,C266,Electronics,TechZone,East,Email,5535.23,1,6
+O1923,2024-01-29,C206,Electronics,ElectroWorld,East,YouTube Ads,6259.84,2,6
+O1924,2024-06-28,C407,Sports,ProGear,West,Email,33109.48,1,3
+O1925,2024-06-07,C288,Fashion,StyleHub,North,Facebook,27829.02,1,9
+O1926,2024-05-03,C427,Electronics,ElectroWorld,West,Google Ads,12406.28,2,10
+O1927,2024-02-24,C442,Fashion,UrbanLook,East,Facebook,24293.83,2,8
+O1928,2024-01-20,C538,Fashion,StyleHub,East,Instagram,37517.01,3,5
+O1929,2024-05-31,C521,Home Decor,HomeEssence,West,Instagram,27404.89,1,6
+O1930,2024-05-21,C296,Fashion,TrendWear,West,Email,4272.45,3,7
+O1931,2024-05-23,C357,Electronics,SmartBuy,South,Facebook,27911.87,3,3
+O1932,2024-06-24,C483,Electronics,ElectroWorld,East,Facebook,39852.09,3,3
+O1933,2024-05-09,C205,Sports,FitNation,West,Google Ads,21434.79,1,7
+O1934,2024-02-12,C258,Home Decor,DecoHub,South,Facebook,43914.45,1,3
+O1935,2024-03-10,C510,Sports,ProGear,North,Email,15933.26,1,3
+O1936,2024-05-14,C563,Sports,FitNation,West,Instagram,19441.59,2,8
+O1937,2024-05-21,C493,Fashion,UrbanLook,West,Facebook,40708.16,1,6
+O1938,2024-02-02,C119,Sports,ProGear,West,Instagram,38456.98,2,3
+O1939,2024-06-08,C503,Sports,ProGear,East,YouTube Ads,13347.13,3,4
+O1940,2024-02-20,C522,Beauty,BeautyCart,East,Facebook,1879.33,3,4
+O1941,2024-02-09,C254,Beauty,BeautyCart,East,Google Ads,17585.75,3,4
+O1942,2024-01-03,C383,Sports,FitNation,West,YouTube Ads,36730.6,3,8
+O1943,2024-05-03,C457,Beauty,GlowStore,North,Instagram,10495.37,1,9
+O1944,2024-05-13,C348,Fashion,TrendWear,North,Facebook,11448.33,1,8
+O1945,2024-03-12,C135,Beauty,BeautyCart,South,Instagram,10237.55,3,5
+O1946,2024-02-18,C343,Home Decor,HomeEssence,North,Google Ads,39683.11,3,3
+O1947,2024-03-09,C299,Fashion,UrbanLook,West,Facebook,34873.17,1,3
+O1948,2024-03-08,C260,Electronics,ElectroWorld,South,Instagram,11560.46,3,6
+O1949,2024-02-24,C287,Beauty,BeautyCart,North,Instagram,14464.62,2,7
+O1950,2024-05-21,C562,Home Decor,HomeEssence,North,Google Ads,43876.13,2,9
+O1951,2024-02-03,C400,Home Decor,DecoHub,South,Email,44854.95,2,5
+O1952,2024-04-29,C483,Home Decor,HomeEssence,South,Google Ads,14988.26,1,4
+O1953,2024-01-02,C553,Beauty,GlowStore,North,Email,21115.12,1,6
+O1954,2024-06-02,C468,Electronics,ElectroWorld,South,Instagram,43489.5,3,6
+O1955,2024-06-25,C505,Fashion,StyleHub,East,Instagram,547.73,2,5
+O1956,2024-05-20,C135,Fashion,StyleHub,North,YouTube Ads,42581.44,3,6
+O1957,2024-05-16,C122,Sports,ProGear,South,Facebook,10608.42,1,2
+O1958,2024-04-15,C194,Home Decor,DecoHub,East,Facebook,34495.55,2,2
+O1959,2024-03-27,C165,Beauty,BeautyCart,West,YouTube Ads,16651.33,1,5
+O1960,2024-06-05,C199,Electronics,ElectroWorld,South,Email,41939.15,1,2
+O1961,2024-01-12,C281,Beauty,BeautyCart,West,Google Ads,38226.93,2,4
+O1962,2024-02-20,C470,Sports,ProGear,East,Facebook,24711.05,2,2
+O1963,2024-01-31,C238,Home Decor,HomeEssence,West,Google Ads,44198.84,1,10
+O1964,2024-01-19,C398,Fashion,UrbanLook,North,Instagram,19039.37,3,3
+O1965,2024-05-17,C558,Fashion,StyleHub,North,Instagram,37351.96,2,6
+O1966,2024-04-08,C419,Home Decor,DecoHub,North,Instagram,11124.65,1,7
+O1967,2024-04-02,C285,Sports,ProGear,West,Instagram,13124.89,2,10
+O1968,2024-03-08,C364,Home Decor,DecoHub,South,Google Ads,26603.77,2,6
+O1969,2024-02-13,C255,Sports,ProGear,West,Instagram,41724.16,2,2
+O1970,2024-05-08,C578,Sports,ProGear,East,Email,27962.12,3,5
+O1971,2024-03-29,C438,Fashion,StyleHub,North,YouTube Ads,31052.34,1,10
+O1972,2024-01-16,C124,Sports,ProGear,East,Email,43680.65,3,6
+O1973,2024-03-12,C247,Sports,FitNation,South,Instagram,38695.32,3,9
+O1974,2024-03-29,C322,Home Decor,DecoHub,West,Email,25810.8,2,6
+O1975,2024-02-02,C222,Fashion,UrbanLook,East,Instagram,3437.67,3,4
+O1976,2024-01-31,C361,Sports,FitNation,East,Google Ads,16664.74,1,8
+O1977,2024-04-20,C358,Electronics,TechZone,East,Facebook,44775.53,1,3
+O1978,2024-03-12,C495,Electronics,ElectroWorld,West,YouTube Ads,2125.65,3,3
+O1979,2024-03-15,C190,Sports,ProGear,West,Email,27642.41,3,3
+O1980,2024-06-03,C170,Sports,FitNation,South,YouTube Ads,9661.08,1,7
+O1981,2024-05-05,C335,Sports,FitNation,South,Email,29536.15,2,4
+O1982,2024-02-15,C429,Electronics,SmartBuy,South,Email,15869.14,1,5
+O1983,2024-03-26,C262,Beauty,BeautyCart,East,YouTube Ads,48757.81,2,3
+O1984,2024-02-16,C120,Electronics,ElectroWorld,South,Google Ads,6208.9,1,8
+O1985,2024-04-11,C527,Home Decor,DecoHub,North,Facebook,35668.91,1,7
+O1986,2024-05-08,C125,Beauty,GlowStore,East,Google Ads,3684.8,3,4
+O1987,2024-06-04,C472,Beauty,GlowStore,South,YouTube Ads,17641.5,1,9
+O1988,2024-05-17,C214,Beauty,GlowStore,East,Instagram,3482.15,3,9
+O1989,2024-04-21,C168,Sports,FitNation,East,Google Ads,40688.76,3,9
+O1990,2024-06-22,C374,Electronics,SmartBuy,North,YouTube Ads,14800.29,1,4
+O1991,2024-05-19,C346,Beauty,GlowStore,North,YouTube Ads,7442.93,3,5
+O1992,2024-04-05,C228,Sports,FitNation,East,Email,14655.97,1,5
+O1993,2024-01-08,C368,Fashion,UrbanLook,East,Instagram,28911.25,3,10
+O1994,2024-02-07,C239,Home Decor,HomeEssence,West,Email,45820.08,3,10
+O1995,2024-05-19,C475,Sports,ProGear,North,YouTube Ads,22729.03,1,10
+O1996,2024-04-25,C586,Sports,ProGear,West,Facebook,28343.75,3,3
+O1997,2024-03-21,C520,Sports,ProGear,East,YouTube Ads,12301.72,1,8
+O1998,2024-01-03,C274,Fashion,UrbanLook,North,Google Ads,39034.06,1,4
+O1999,2024-04-07,C228,Electronics,TechZone,West,Email,7153.33,3,8
+O2000,2024-02-14,C347,Electronics,ElectroWorld,West,Google Ads,6721.59,3,5
